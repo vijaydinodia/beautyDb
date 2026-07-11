@@ -56,9 +56,9 @@
         "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
       "images": [
-        "https://cdn.dummyjson.com/product-images/beauty/essence-mascara-lash-princess/1.webp"
+        "https://images.unsplash.com/photo-1596462502278-27bfdc403348?auto=format&fit=crop&w=1600&q=90"
       ],
-      "thumbnail": "https://cdn.dummyjson.com/product-images/beauty/essence-mascara-lash-princess/thumbnail.webp"
+      "thumbnail": "https://images.unsplash.com/photo-1596462502278-27bfdc403348?auto=format&fit=crop&w=600&q=85"
     },
     {
       "id": 2,
@@ -116,9 +116,9 @@
         "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
       "images": [
-        "https://cdn.dummyjson.com/product-images/beauty/eyeshadow-palette-with-mirror/1.webp"
+        "https://images.unsplash.com/photo-1522335789203-aabd1fc54bc9?auto=format&fit=crop&w=1600&q=90"
       ],
-      "thumbnail": "https://cdn.dummyjson.com/product-images/beauty/eyeshadow-palette-with-mirror/thumbnail.webp"
+      "thumbnail": "https://images.unsplash.com/photo-1522335789203-aabd1fc54bc9?auto=format&fit=crop&w=600&q=85"
     },
     {
       "id": 3,
@@ -176,9 +176,9 @@
         "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
       "images": [
-        "https://cdn.dummyjson.com/product-images/beauty/powder-canister/1.webp"
+        "https://images.unsplash.com/photo-1586495777744-4413f21062fa?auto=format&fit=crop&w=1600&q=90"
       ],
-      "thumbnail": "https://cdn.dummyjson.com/product-images/beauty/powder-canister/thumbnail.webp"
+      "thumbnail": "https://images.unsplash.com/photo-1586495777744-4413f21062fa?auto=format&fit=crop&w=600&q=85"
     },
     {
       "id": 4,
@@ -236,9 +236,9 @@
         "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
       "images": [
-        "https://cdn.dummyjson.com/product-images/beauty/red-lipstick/1.webp"
+        "https://images.unsplash.com/photo-1515688594390-b649af70d282?auto=format&fit=crop&w=1600&q=90"
       ],
-      "thumbnail": "https://cdn.dummyjson.com/product-images/beauty/red-lipstick/thumbnail.webp"
+      "thumbnail": "https://images.unsplash.com/photo-1515688594390-b649af70d282?auto=format&fit=crop&w=600&q=85"
     },
     {
       "id": 5,
@@ -296,9 +296,9 @@
         "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
       "images": [
-        "https://cdn.dummyjson.com/product-images/beauty/red-nail-polish/1.webp"
+        "https://images.unsplash.com/photo-1571781926291-c477ebfd024b?auto=format&fit=crop&w=1600&q=90"
       ],
-      "thumbnail": "https://cdn.dummyjson.com/product-images/beauty/red-nail-polish/thumbnail.webp"
+      "thumbnail": "https://images.unsplash.com/photo-1571781926291-c477ebfd024b?auto=format&fit=crop&w=600&q=85"
     },
     {
       "title": "Liquid Foundation",
@@ -334,9 +334,9 @@
         "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
       "images": [
-        "https://cdn.dummyjson.com/product-images/beauty/liquid-foundation/1.webp"
+        "https://images.unsplash.com/photo-1612817288484-6f916006741a?auto=format&fit=crop&w=1600&q=90"
       ],
-      "thumbnail": "https://cdn.dummyjson.com/product-images/beauty/liquid-foundation/thumbnail.webp"
+      "thumbnail": "https://images.unsplash.com/photo-1612817288484-6f916006741a?auto=format&fit=crop&w=600&q=85"
     },
     {
       "title": "Matte Lip Gloss",
@@ -372,9 +372,9 @@
         "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
       "images": [
-        "https://cdn.dummyjson.com/product-images/beauty/matte-lip-gloss/1.webp"
+        "https://images.unsplash.com/photo-1598440947619-2c35fc9aa908?auto=format&fit=crop&w=1600&q=90"
       ],
-      "thumbnail": "https://cdn.dummyjson.com/product-images/beauty/matte-lip-gloss/thumbnail.webp"
+      "thumbnail": "https://images.unsplash.com/photo-1598440947619-2c35fc9aa908?auto=format&fit=crop&w=600&q=85"
     },
     {
       "title": "Waterproof Eyeliner",
@@ -410,9 +410,9 @@
         "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
       "images": [
-        "https://cdn.dummyjson.com/product-images/beauty/waterproof-eyeliner/1.webp"
+        "https://images.unsplash.com/photo-1625093742435-6fa192b6fb10?auto=format&fit=crop&w=1600&q=90"
       ],
-      "thumbnail": "https://cdn.dummyjson.com/product-images/beauty/waterproof-eyeliner/thumbnail.webp"
+      "thumbnail": "https://images.unsplash.com/photo-1625093742435-6fa192b6fb10?auto=format&fit=crop&w=600&q=85"
     },
     {
       "title": "Rose Blush Palette",
@@ -448,9 +448,9 @@
         "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
       "images": [
-        "https://cdn.dummyjson.com/product-images/beauty/rose-blush-palette/1.webp"
+        "https://images.unsplash.com/photo-1631214500115-598fc2cb8a48?auto=format&fit=crop&w=1600&q=90"
       ],
-      "thumbnail": "https://cdn.dummyjson.com/product-images/beauty/rose-blush-palette/thumbnail.webp"
+      "thumbnail": "https://images.unsplash.com/photo-1631214500115-598fc2cb8a48?auto=format&fit=crop&w=600&q=85"
     },
     {
       "title": "Makeup Setting Spray",
@@ -486,9 +486,9 @@
         "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
       "images": [
-        "https://cdn.dummyjson.com/product-images/beauty/makeup-setting-spray/1.webp"
+        "https://images.unsplash.com/photo-1583241800698-e8ab01830a07?auto=format&fit=crop&w=1600&q=90"
       ],
-      "thumbnail": "https://cdn.dummyjson.com/product-images/beauty/makeup-setting-spray/thumbnail.webp"
+      "thumbnail": "https://images.unsplash.com/photo-1583241800698-e8ab01830a07?auto=format&fit=crop&w=600&q=85"
     },
     {
       "title": "Volume Boost Mascara",
@@ -524,9 +524,9 @@
         "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
       "images": [
-        "https://cdn.dummyjson.com/product-images/beauty/volume-boost-mascara/1.webp"
+        "https://images.unsplash.com/photo-1596462502278-27bfdc403348?auto=format&fit=crop&w=1600&q=90"
       ],
-      "thumbnail": "https://cdn.dummyjson.com/product-images/beauty/volume-boost-mascara/thumbnail.webp"
+      "thumbnail": "https://images.unsplash.com/photo-1596462502278-27bfdc403348?auto=format&fit=crop&w=600&q=85"
     },
     {
       "title": "Nude Lipstick",
@@ -562,9 +562,9 @@
         "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
       "images": [
-        "https://cdn.dummyjson.com/product-images/beauty/nude-lipstick/1.webp"
+        "https://images.unsplash.com/photo-1522335789203-aabd1fc54bc9?auto=format&fit=crop&w=1600&q=90"
       ],
-      "thumbnail": "https://cdn.dummyjson.com/product-images/beauty/nude-lipstick/thumbnail.webp"
+      "thumbnail": "https://images.unsplash.com/photo-1522335789203-aabd1fc54bc9?auto=format&fit=crop&w=600&q=85"
     },
     {
       "title": "Face Highlighter",
@@ -600,9 +600,9 @@
         "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
       "images": [
-        "https://cdn.dummyjson.com/product-images/beauty/face-highlighter/1.webp"
+        "https://images.unsplash.com/photo-1586495777744-4413f21062fa?auto=format&fit=crop&w=1600&q=90"
       ],
-      "thumbnail": "https://cdn.dummyjson.com/product-images/beauty/face-highlighter/thumbnail.webp"
+      "thumbnail": "https://images.unsplash.com/photo-1586495777744-4413f21062fa?auto=format&fit=crop&w=600&q=85"
     },
     {
       "title": "Beauty Makeup Sponge",
@@ -638,9 +638,9 @@
         "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
       "images": [
-        "https://cdn.dummyjson.com/product-images/beauty/beauty-makeup-sponge/1.webp"
+        "https://images.unsplash.com/photo-1515688594390-b649af70d282?auto=format&fit=crop&w=1600&q=90"
       ],
-      "thumbnail": "https://cdn.dummyjson.com/product-images/beauty/beauty-makeup-sponge/thumbnail.webp"
+      "thumbnail": "https://images.unsplash.com/photo-1515688594390-b649af70d282?auto=format&fit=crop&w=600&q=85"
     },
     {
       "title": "Pink Nail Polish",
@@ -676,9 +676,9 @@
         "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
       "images": [
-        "https://cdn.dummyjson.com/product-images/beauty/pink-nail-polish/1.webp"
+        "https://images.unsplash.com/photo-1571781926291-c477ebfd024b?auto=format&fit=crop&w=1600&q=90"
       ],
-      "thumbnail": "https://cdn.dummyjson.com/product-images/beauty/pink-nail-polish/thumbnail.webp"
+      "thumbnail": "https://images.unsplash.com/photo-1571781926291-c477ebfd024b?auto=format&fit=crop&w=600&q=85"
     },
     {
       "id": 16,
@@ -714,9 +714,9 @@
         "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
       "images": [
-        "https://cdn.dummyjson.com/product-images/beauty/cream-concealer/1.webp"
+        "https://images.unsplash.com/photo-1612817288484-6f916006741a?auto=format&fit=crop&w=1600&q=90"
       ],
-      "thumbnail": "https://cdn.dummyjson.com/product-images/beauty/cream-concealer/thumbnail.webp"
+      "thumbnail": "https://images.unsplash.com/photo-1612817288484-6f916006741a?auto=format&fit=crop&w=600&q=85"
     },
     {
       "id": 17,
@@ -752,9 +752,9 @@
         "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
       "images": [
-        "https://cdn.dummyjson.com/product-images/beauty/brow-defining-pencil/1.webp"
+        "https://images.unsplash.com/photo-1598440947619-2c35fc9aa908?auto=format&fit=crop&w=1600&q=90"
       ],
-      "thumbnail": "https://cdn.dummyjson.com/product-images/beauty/brow-defining-pencil/thumbnail.webp"
+      "thumbnail": "https://images.unsplash.com/photo-1598440947619-2c35fc9aa908?auto=format&fit=crop&w=600&q=85"
     },
     {
       "id": 18,
@@ -790,9 +790,9 @@
         "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
       "images": [
-        "https://cdn.dummyjson.com/product-images/beauty/pressed-face-powder/1.webp"
+        "https://images.unsplash.com/photo-1625093742435-6fa192b6fb10?auto=format&fit=crop&w=1600&q=90"
       ],
-      "thumbnail": "https://cdn.dummyjson.com/product-images/beauty/pressed-face-powder/thumbnail.webp"
+      "thumbnail": "https://images.unsplash.com/photo-1625093742435-6fa192b6fb10?auto=format&fit=crop&w=600&q=85"
     },
     {
       "id": 19,
@@ -828,9 +828,9 @@
         "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
       "images": [
-        "https://cdn.dummyjson.com/product-images/beauty/peach-blush/1.webp"
+        "https://images.unsplash.com/photo-1631214500115-598fc2cb8a48?auto=format&fit=crop&w=1600&q=90"
       ],
-      "thumbnail": "https://cdn.dummyjson.com/product-images/beauty/peach-blush/thumbnail.webp"
+      "thumbnail": "https://images.unsplash.com/photo-1631214500115-598fc2cb8a48?auto=format&fit=crop&w=600&q=85"
     },
     {
       "id": 20,
@@ -866,9 +866,9 @@
         "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
       "images": [
-        "https://cdn.dummyjson.com/product-images/beauty/gel-nail-polish/1.webp"
+        "https://images.unsplash.com/photo-1583241800698-e8ab01830a07?auto=format&fit=crop&w=1600&q=90"
       ],
-      "thumbnail": "https://cdn.dummyjson.com/product-images/beauty/gel-nail-polish/thumbnail.webp"
+      "thumbnail": "https://images.unsplash.com/photo-1583241800698-e8ab01830a07?auto=format&fit=crop&w=600&q=85"
     },
     {
       "id": 21,
@@ -904,9 +904,9 @@
         "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
       "images": [
-        "https://cdn.dummyjson.com/product-images/beauty/lengthening-mascara/1.webp"
+        "https://images.unsplash.com/photo-1596462502278-27bfdc403348?auto=format&fit=crop&w=1600&q=90"
       ],
-      "thumbnail": "https://cdn.dummyjson.com/product-images/beauty/lengthening-mascara/thumbnail.webp"
+      "thumbnail": "https://images.unsplash.com/photo-1596462502278-27bfdc403348?auto=format&fit=crop&w=600&q=85"
     },
     {
       "id": 22,
@@ -942,9 +942,9 @@
         "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
       "images": [
-        "https://cdn.dummyjson.com/product-images/beauty/lip-liner-pencil/1.webp"
+        "https://images.unsplash.com/photo-1522335789203-aabd1fc54bc9?auto=format&fit=crop&w=1600&q=90"
       ],
-      "thumbnail": "https://cdn.dummyjson.com/product-images/beauty/lip-liner-pencil/thumbnail.webp"
+      "thumbnail": "https://images.unsplash.com/photo-1522335789203-aabd1fc54bc9?auto=format&fit=crop&w=600&q=85"
     },
     {
       "id": 23,
@@ -980,9 +980,9 @@
         "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
       "images": [
-        "https://cdn.dummyjson.com/product-images/beauty/contour-stick/1.webp"
+        "https://images.unsplash.com/photo-1586495777744-4413f21062fa?auto=format&fit=crop&w=1600&q=90"
       ],
-      "thumbnail": "https://cdn.dummyjson.com/product-images/beauty/contour-stick/thumbnail.webp"
+      "thumbnail": "https://images.unsplash.com/photo-1586495777744-4413f21062fa?auto=format&fit=crop&w=600&q=85"
     },
     {
       "id": 24,
@@ -1018,9 +1018,9 @@
         "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
       "images": [
-        "https://cdn.dummyjson.com/product-images/beauty/shimmer-eyeshadow/1.webp"
+        "https://images.unsplash.com/photo-1515688594390-b649af70d282?auto=format&fit=crop&w=1600&q=90"
       ],
-      "thumbnail": "https://cdn.dummyjson.com/product-images/beauty/shimmer-eyeshadow/thumbnail.webp"
+      "thumbnail": "https://images.unsplash.com/photo-1515688594390-b649af70d282?auto=format&fit=crop&w=600&q=85"
     },
     {
       "id": 25,
@@ -1056,9 +1056,9 @@
         "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
       "images": [
-        "https://cdn.dummyjson.com/product-images/beauty/makeup-primer/1.webp"
+        "https://images.unsplash.com/photo-1571781926291-c477ebfd024b?auto=format&fit=crop&w=1600&q=90"
       ],
-      "thumbnail": "https://cdn.dummyjson.com/product-images/beauty/makeup-primer/thumbnail.webp"
+      "thumbnail": "https://images.unsplash.com/photo-1571781926291-c477ebfd024b?auto=format&fit=crop&w=600&q=85"
     },
     {
       "id": 26,
@@ -1094,9 +1094,9 @@
         "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
       "images": [
-        "https://cdn.dummyjson.com/product-images/beauty/cream-highlighter-stick/1.webp"
+        "https://images.unsplash.com/photo-1612817288484-6f916006741a?auto=format&fit=crop&w=1600&q=90"
       ],
-      "thumbnail": "https://cdn.dummyjson.com/product-images/beauty/cream-highlighter-stick/thumbnail.webp"
+      "thumbnail": "https://images.unsplash.com/photo-1612817288484-6f916006741a?auto=format&fit=crop&w=600&q=85"
     },
     {
       "id": 27,
@@ -1132,9 +1132,9 @@
         "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
       "images": [
-        "https://cdn.dummyjson.com/product-images/beauty/clear-brow-gel/1.webp"
+        "https://images.unsplash.com/photo-1598440947619-2c35fc9aa908?auto=format&fit=crop&w=1600&q=90"
       ],
-      "thumbnail": "https://cdn.dummyjson.com/product-images/beauty/clear-brow-gel/thumbnail.webp"
+      "thumbnail": "https://images.unsplash.com/photo-1598440947619-2c35fc9aa908?auto=format&fit=crop&w=600&q=85"
     },
     {
       "id": 28,
@@ -1170,9 +1170,9 @@
         "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
       "images": [
-        "https://cdn.dummyjson.com/product-images/beauty/berry-lip-tint/1.webp"
+        "https://images.unsplash.com/photo-1625093742435-6fa192b6fb10?auto=format&fit=crop&w=1600&q=90"
       ],
-      "thumbnail": "https://cdn.dummyjson.com/product-images/beauty/berry-lip-tint/thumbnail.webp"
+      "thumbnail": "https://images.unsplash.com/photo-1625093742435-6fa192b6fb10?auto=format&fit=crop&w=600&q=85"
     },
     {
       "id": 29,
@@ -1208,9 +1208,9 @@
         "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
       "images": [
-        "https://cdn.dummyjson.com/product-images/beauty/makeup-brush-set/1.webp"
+        "https://images.unsplash.com/photo-1631214500115-598fc2cb8a48?auto=format&fit=crop&w=1600&q=90"
       ],
-      "thumbnail": "https://cdn.dummyjson.com/product-images/beauty/makeup-brush-set/thumbnail.webp"
+      "thumbnail": "https://images.unsplash.com/photo-1631214500115-598fc2cb8a48?auto=format&fit=crop&w=600&q=85"
     },
     {
       "id": 30,
@@ -1246,9 +1246,9 @@
         "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
       "images": [
-        "https://cdn.dummyjson.com/product-images/beauty/compact-makeup-mirror/1.webp"
+        "https://images.unsplash.com/photo-1583241800698-e8ab01830a07?auto=format&fit=crop&w=1600&q=90"
       ],
-      "thumbnail": "https://cdn.dummyjson.com/product-images/beauty/compact-makeup-mirror/thumbnail.webp"
+      "thumbnail": "https://images.unsplash.com/photo-1583241800698-e8ab01830a07?auto=format&fit=crop&w=600&q=85"
     },
     {
       "id": 31,
@@ -1284,9 +1284,9 @@
         "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
       "images": [
-        "https://cdn.dummyjson.com/product-images/beauty/hydrating-bb-cream/1.webp"
+        "https://images.unsplash.com/photo-1596462502278-27bfdc403348?auto=format&fit=crop&w=1600&q=90"
       ],
-      "thumbnail": "https://cdn.dummyjson.com/product-images/beauty/hydrating-bb-cream/thumbnail.webp"
+      "thumbnail": "https://images.unsplash.com/photo-1596462502278-27bfdc403348?auto=format&fit=crop&w=600&q=85"
     },
     {
       "id": 32,
@@ -1322,9 +1322,9 @@
         "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
       "images": [
-        "https://cdn.dummyjson.com/product-images/beauty/black-kajal-pencil/1.webp"
+        "https://images.unsplash.com/photo-1522335789203-aabd1fc54bc9?auto=format&fit=crop&w=1600&q=90"
       ],
-      "thumbnail": "https://cdn.dummyjson.com/product-images/beauty/black-kajal-pencil/thumbnail.webp"
+      "thumbnail": "https://images.unsplash.com/photo-1522335789203-aabd1fc54bc9?auto=format&fit=crop&w=600&q=85"
     },
     {
       "id": 33,
@@ -1360,9 +1360,9 @@
         "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
       "images": [
-        "https://cdn.dummyjson.com/product-images/beauty/color-corrector-palette/1.webp"
+        "https://images.unsplash.com/photo-1586495777744-4413f21062fa?auto=format&fit=crop&w=1600&q=90"
       ],
-      "thumbnail": "https://cdn.dummyjson.com/product-images/beauty/color-corrector-palette/thumbnail.webp"
+      "thumbnail": "https://images.unsplash.com/photo-1586495777744-4413f21062fa?auto=format&fit=crop&w=600&q=85"
     },
     {
       "id": 34,
@@ -1398,9 +1398,9 @@
         "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
       "images": [
-        "https://cdn.dummyjson.com/product-images/beauty/loose-translucent-powder/1.webp"
+        "https://images.unsplash.com/photo-1515688594390-b649af70d282?auto=format&fit=crop&w=1600&q=90"
       ],
-      "thumbnail": "https://cdn.dummyjson.com/product-images/beauty/loose-translucent-powder/thumbnail.webp"
+      "thumbnail": "https://images.unsplash.com/photo-1515688594390-b649af70d282?auto=format&fit=crop&w=600&q=85"
     },
     {
       "id": 35,
@@ -1436,9 +1436,9 @@
         "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
       "images": [
-        "https://cdn.dummyjson.com/product-images/beauty/bronzing-powder/1.webp"
+        "https://images.unsplash.com/photo-1571781926291-c477ebfd024b?auto=format&fit=crop&w=1600&q=90"
       ],
-      "thumbnail": "https://cdn.dummyjson.com/product-images/beauty/bronzing-powder/thumbnail.webp"
+      "thumbnail": "https://images.unsplash.com/photo-1571781926291-c477ebfd024b?auto=format&fit=crop&w=600&q=85"
     },
     {
       "id": 36,
@@ -1474,9 +1474,9 @@
         "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
       "images": [
-        "https://cdn.dummyjson.com/product-images/beauty/liquid-blush/1.webp"
+        "https://images.unsplash.com/photo-1612817288484-6f916006741a?auto=format&fit=crop&w=1600&q=90"
       ],
-      "thumbnail": "https://cdn.dummyjson.com/product-images/beauty/liquid-blush/thumbnail.webp"
+      "thumbnail": "https://images.unsplash.com/photo-1612817288484-6f916006741a?auto=format&fit=crop&w=600&q=85"
     },
     {
       "id": 37,
@@ -1512,9 +1512,9 @@
         "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
       "images": [
-        "https://cdn.dummyjson.com/product-images/beauty/brown-eyeliner-pencil/1.webp"
+        "https://images.unsplash.com/photo-1598440947619-2c35fc9aa908?auto=format&fit=crop&w=1600&q=90"
       ],
-      "thumbnail": "https://cdn.dummyjson.com/product-images/beauty/brown-eyeliner-pencil/thumbnail.webp"
+      "thumbnail": "https://images.unsplash.com/photo-1598440947619-2c35fc9aa908?auto=format&fit=crop&w=600&q=85"
     },
     {
       "id": 38,
@@ -1550,9 +1550,9 @@
         "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
       "images": [
-        "https://cdn.dummyjson.com/product-images/beauty/eyeshadow-primer/1.webp"
+        "https://images.unsplash.com/photo-1625093742435-6fa192b6fb10?auto=format&fit=crop&w=1600&q=90"
       ],
-      "thumbnail": "https://cdn.dummyjson.com/product-images/beauty/eyeshadow-primer/thumbnail.webp"
+      "thumbnail": "https://images.unsplash.com/photo-1625093742435-6fa192b6fb10?auto=format&fit=crop&w=600&q=85"
     },
     {
       "id": 39,
@@ -1588,9 +1588,9 @@
         "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
       "images": [
-        "https://cdn.dummyjson.com/product-images/beauty/lip-plumping-gloss/1.webp"
+        "https://images.unsplash.com/photo-1631214500115-598fc2cb8a48?auto=format&fit=crop&w=1600&q=90"
       ],
-      "thumbnail": "https://cdn.dummyjson.com/product-images/beauty/lip-plumping-gloss/thumbnail.webp"
+      "thumbnail": "https://images.unsplash.com/photo-1631214500115-598fc2cb8a48?auto=format&fit=crop&w=600&q=85"
     },
     {
       "id": 40,
@@ -1626,9 +1626,9 @@
         "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
       "images": [
-        "https://cdn.dummyjson.com/product-images/beauty/coral-lipstick/1.webp"
+        "https://images.unsplash.com/photo-1583241800698-e8ab01830a07?auto=format&fit=crop&w=1600&q=90"
       ],
-      "thumbnail": "https://cdn.dummyjson.com/product-images/beauty/coral-lipstick/thumbnail.webp"
+      "thumbnail": "https://images.unsplash.com/photo-1583241800698-e8ab01830a07?auto=format&fit=crop&w=600&q=85"
     },
     {
       "id": 41,
@@ -1664,9 +1664,9 @@
         "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
       "images": [
-        "https://cdn.dummyjson.com/product-images/beauty/french-manicure-nail-polish/1.webp"
+        "https://images.unsplash.com/photo-1596462502278-27bfdc403348?auto=format&fit=crop&w=1600&q=90"
       ],
-      "thumbnail": "https://cdn.dummyjson.com/product-images/beauty/french-manicure-nail-polish/thumbnail.webp"
+      "thumbnail": "https://images.unsplash.com/photo-1596462502278-27bfdc403348?auto=format&fit=crop&w=600&q=85"
     },
     {
       "id": 42,
@@ -1702,9 +1702,9 @@
         "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
       "images": [
-        "https://cdn.dummyjson.com/product-images/beauty/nail-strengthener/1.webp"
+        "https://images.unsplash.com/photo-1522335789203-aabd1fc54bc9?auto=format&fit=crop&w=1600&q=90"
       ],
-      "thumbnail": "https://cdn.dummyjson.com/product-images/beauty/nail-strengthener/thumbnail.webp"
+      "thumbnail": "https://images.unsplash.com/photo-1522335789203-aabd1fc54bc9?auto=format&fit=crop&w=600&q=85"
     },
     {
       "id": 43,
@@ -1740,9 +1740,9 @@
         "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
       "images": [
-        "https://cdn.dummyjson.com/product-images/beauty/makeup-remover-balm/1.webp"
+        "https://images.unsplash.com/photo-1586495777744-4413f21062fa?auto=format&fit=crop&w=1600&q=90"
       ],
-      "thumbnail": "https://cdn.dummyjson.com/product-images/beauty/makeup-remover-balm/thumbnail.webp"
+      "thumbnail": "https://images.unsplash.com/photo-1586495777744-4413f21062fa?auto=format&fit=crop&w=600&q=85"
     },
     {
       "id": 44,
@@ -1778,9 +1778,9 @@
         "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
       "images": [
-        "https://cdn.dummyjson.com/product-images/beauty/facial-cleansing-brush/1.webp"
+        "https://images.unsplash.com/photo-1515688594390-b649af70d282?auto=format&fit=crop&w=1600&q=90"
       ],
-      "thumbnail": "https://cdn.dummyjson.com/product-images/beauty/facial-cleansing-brush/thumbnail.webp"
+      "thumbnail": "https://images.unsplash.com/photo-1515688594390-b649af70d282?auto=format&fit=crop&w=600&q=85"
     },
     {
       "id": 45,
@@ -1816,9 +1816,9 @@
         "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
       "images": [
-        "https://cdn.dummyjson.com/product-images/beauty/powder-puff-set/1.webp"
+        "https://images.unsplash.com/photo-1571781926291-c477ebfd024b?auto=format&fit=crop&w=1600&q=90"
       ],
-      "thumbnail": "https://cdn.dummyjson.com/product-images/beauty/powder-puff-set/thumbnail.webp"
+      "thumbnail": "https://images.unsplash.com/photo-1571781926291-c477ebfd024b?auto=format&fit=crop&w=600&q=85"
     },
     {
       "id": 46,
@@ -1854,9 +1854,9 @@
         "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
       "images": [
-        "https://cdn.dummyjson.com/product-images/beauty/eyelash-curler/1.webp"
+        "https://images.unsplash.com/photo-1612817288484-6f916006741a?auto=format&fit=crop&w=1600&q=90"
       ],
-      "thumbnail": "https://cdn.dummyjson.com/product-images/beauty/eyelash-curler/thumbnail.webp"
+      "thumbnail": "https://images.unsplash.com/photo-1612817288484-6f916006741a?auto=format&fit=crop&w=600&q=85"
     },
     {
       "id": 47,
@@ -1892,9 +1892,9 @@
         "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
       "images": [
-        "https://cdn.dummyjson.com/product-images/beauty/false-eyelashes-set/1.webp"
+        "https://images.unsplash.com/photo-1598440947619-2c35fc9aa908?auto=format&fit=crop&w=1600&q=90"
       ],
-      "thumbnail": "https://cdn.dummyjson.com/product-images/beauty/false-eyelashes-set/thumbnail.webp"
+      "thumbnail": "https://images.unsplash.com/photo-1598440947619-2c35fc9aa908?auto=format&fit=crop&w=600&q=85"
     },
     {
       "id": 48,
@@ -1930,9 +1930,9 @@
         "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
       "images": [
-        "https://cdn.dummyjson.com/product-images/beauty/cosmetic-organizer-box/1.webp"
+        "https://images.unsplash.com/photo-1625093742435-6fa192b6fb10?auto=format&fit=crop&w=1600&q=90"
       ],
-      "thumbnail": "https://cdn.dummyjson.com/product-images/beauty/cosmetic-organizer-box/thumbnail.webp"
+      "thumbnail": "https://images.unsplash.com/photo-1625093742435-6fa192b6fb10?auto=format&fit=crop&w=600&q=85"
     },
     {
       "id": 49,
@@ -1968,9 +1968,9 @@
         "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
       "images": [
-        "https://cdn.dummyjson.com/product-images/beauty/travel-makeup-bag/1.webp"
+        "https://images.unsplash.com/photo-1631214500115-598fc2cb8a48?auto=format&fit=crop&w=1600&q=90"
       ],
-      "thumbnail": "https://cdn.dummyjson.com/product-images/beauty/travel-makeup-bag/thumbnail.webp"
+      "thumbnail": "https://images.unsplash.com/photo-1631214500115-598fc2cb8a48?auto=format&fit=crop&w=600&q=85"
     },
     {
       "id": 50,
@@ -2006,9 +2006,9 @@
         "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
       "images": [
-        "https://cdn.dummyjson.com/product-images/beauty/mini-beauty-blender-set/1.webp"
+        "https://images.unsplash.com/photo-1583241800698-e8ab01830a07?auto=format&fit=crop&w=1600&q=90"
       ],
-      "thumbnail": "https://cdn.dummyjson.com/product-images/beauty/mini-beauty-blender-set/thumbnail.webp"
+      "thumbnail": "https://images.unsplash.com/photo-1583241800698-e8ab01830a07?auto=format&fit=crop&w=600&q=85"
     }
   ],
   "total": 50,

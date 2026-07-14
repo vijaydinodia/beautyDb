@@ -37,6 +37,13 @@
         { "id": 5, "userName": "GlowGirl", "rating": 3, "comment": "Average product. Gets the job done but I expected a bit more.", "date": "2025-06-18" },
         { "id": 6, "userName": "MakeupQueen", "rating": 2, "comment": "Average at best. There are better options available in the market.", "date": "2025-07-22" }
       ],
+      "faqs": [
+        { "id": 1, "question": "Is this mascara waterproof?", "answer": "This mascara is formulated to be water-resistant, helping it stay in place throughout the day. However, it can be removed easily with a gentle eye makeup remover or micellar water without harsh rubbing." },
+        { "id": 2, "question": "Does it clump on the lashes?", "answer": "No, this mascara features a specially designed formula that coats each lash evenly without clumping. The brush separates lashes for a smooth, defined look with every application." },
+        { "id": 3, "question": "How long does the mascara last without smudging?", "answer": "This mascara is designed to last up to 12 hours without smudging, flaking, or fading. It maintains its volume and length throughout the day, even in humid conditions." },
+        { "id": 4, "question": "Is it suitable for sensitive eyes or contact lens wearers?", "answer": "Yes, this mascara is ophthalmologist-tested and suitable for sensitive eyes and contact lens wearers. It is free from harsh irritants and has been formulated to minimize the risk of eye irritation." },
+        { "id": 5, "question": "How do I remove this mascara properly?", "answer": "For best results, use a gentle eye makeup remover or micellar water on a cotton pad. Press it against your closed eyelid for a few seconds, then gently wipe downward. Avoid rubbing to protect your lashes." }
+      ],
       "createdAt": "2025-01-15T00:00:00.000Z"
     },
     {
@@ -74,6 +81,13 @@
         { "id": 3, "userName": "SophiaLiu", "rating": 2, "comment": "Not what I expected. The quality could be much better for this price.", "date": "2025-04-22" },
         { "id": 4, "userName": "CosmeticFan", "rating": 3, "comment": "Decent quality for the price. Works fine for everyday use.", "date": "2025-05-30" },
         { "id": 5, "userName": "TrendyMiss", "rating": 4, "comment": "Really impressed with the quality. Will definitely buy again!", "date": "2025-06-14" }
+      ],
+      "faqs": [
+        { "id": 1, "question": "Is this eyeshadow highly pigmented?", "answer": "Yes, this eyeshadow delivers rich, highly pigmented color in a single swipe. The formula is designed to provide intense color payoff that stays true throughout the day." },
+        { "id": 2, "question": "Can it be used wet or dry?", "answer": "This eyeshadow is versatile and can be applied both wet and dry. When applied dry, it gives a soft, blendable finish. When used wet, it delivers a more intense, metallic effect." },
+        { "id": 3, "question": "Is it suitable for sensitive skin around the eyes?", "answer": "Yes, this eyeshadow is dermatologist-tested and formulated without harsh chemicals, making it safe for sensitive skin around the delicate eye area." },
+        { "id": 4, "question": "How long does the color last?", "answer": "With proper application over a primer, this eyeshadow can last up to 10-12 hours without creasing or fading. It is formulated with long-wear technology for all-day color retention." },
+        { "id": 5, "question": "Does it crease throughout the day?", "answer": "This eyeshadow is crease-resistant and stays smooth on the eyelid for hours. For best results, apply an eyeshadow primer beforehand to extend wear time even further." }
       ],
       "createdAt": "2025-01-22T00:00:00.000Z"
     },
@@ -114,6 +128,13 @@
         { "id": 5, "userName": "Kavya N.", "rating": 4, "comment": "Great value for the price. I use it daily and it never disappoints.", "date": "2025-05-22" },
         { "id": 6, "userName": "Isha G.", "rating": 5, "comment": "This product exceeded my expectations. Beautiful result every time.", "date": "2025-06-05" }
       ],
+      "faqs": [
+        { "id": 1, "question": "Does this powder control oil effectively?", "answer": "Yes, this powder is specifically formulated to absorb excess oil and control shine throughout the day. It keeps your complexion looking fresh and matte for up to 8 hours." },
+        { "id": 2, "question": "Is it suitable for daily use?", "answer": "Absolutely! This powder is lightweight and gentle enough for everyday use. It sets makeup without feeling heavy or cakey, making it perfect for your daily beauty routine." },
+        { "id": 3, "question": "Does it leave a white cast on deeper skin tones?", "answer": "No, this powder is designed with a translucent formula that blends seamlessly into all skin tones without leaving any white cast or ashy residue." },
+        { "id": 4, "question": "Is this powder lightweight on the skin?", "answer": "Yes, this finely milled powder feels weightless on the skin. It provides a smooth, natural finish without adding any heaviness or cakiness to your makeup." },
+        { "id": 5, "question": "How long does the matte finish last?", "answer": "The matte finish from this powder typically lasts between 6 to 8 hours, depending on skin type. For oily skin, a light touch-up at midday will keep your look fresh all day." }
+      ],
       "createdAt": "2025-02-01T00:00:00.000Z"
     },
     {
@@ -153,6 +174,13 @@
         { "id": 5, "userName": "Sanya W.", "rating": 4, "comment": "Lovely texture and finish. It applies smoothly and looks natural.", "date": "2025-05-10" },
         { "id": 6, "userName": "PrettyInPink", "rating": 4, "comment": "Can't believe how good this is for the price. Truly amazing quality.", "date": "2025-06-30" }
       ],
+      "faqs": [
+        { "id": 1, "question": "Is this lipstick transfer-proof?", "answer": "This lipstick is formulated with long-wear technology that significantly reduces transfer. While it may leave minimal marks, it holds its color beautifully throughout eating, drinking, and daily activities." },
+        { "id": 2, "question": "Is the finish matte or glossy?", "answer": "This lipstick offers a luxurious satin finish that strikes a perfect balance between matte and glossy. It provides rich color with a slight sheen for a polished, elegant look." },
+        { "id": 3, "question": "How long does the color stay on the lips?", "answer": "This lipstick is formulated to last up to 8 hours with normal wear. It maintains its vibrant color throughout the day, though a light touch-up may be needed after heavy meals." },
+        { "id": 4, "question": "Is this lipstick moisturizing?", "answer": "Yes, this lipstick is infused with hydrating ingredients like Shea Butter and Vitamin E that keep your lips moisturized and comfortable all day without drying them out." },
+        { "id": 5, "question": "Is it suitable for everyday use?", "answer": "Absolutely! This lipstick features a lightweight, comfortable formula that is gentle on lips and perfect for daily wear. Its nourishing ingredients ensure your lips stay soft with regular use." }
+      ],
       "createdAt": "2025-02-10T00:00:00.000Z"
     },
     {
@@ -190,6 +218,13 @@
         { "id": 3, "userName": "EmmaB", "rating": 4, "comment": "So glad I found this. It blends beautifully and stays on all day.", "date": "2025-04-18" },
         { "id": 4, "userName": "HarperG", "rating": 4, "comment": "I use this almost every day and it performs consistently well.", "date": "2025-05-25" },
         { "id": 5, "userName": "NaturalBeauty", "rating": 5, "comment": "Fantastic product! It does everything it promises and more.", "date": "2025-06-20" }
+      ],
+      "faqs": [
+        { "id": 1, "question": "Is this nail polish quick drying?", "answer": "Yes, this nail polish features a quick-dry formula that sets within 60 seconds of application. A full cure is achieved within 5 minutes, so you can get back to your routine quickly." },
+        { "id": 2, "question": "How many coats are recommended for best results?", "answer": "For optimal color and coverage, we recommend applying two thin coats. Allow each coat to dry for about a minute before applying the next to achieve the best finish." },
+        { "id": 3, "question": "Is it chip-resistant?", "answer": "Yes, this nail polish is formulated with a chip-resistant technology that helps the color stay intact for up to 7 days with proper application and a top coat." },
+        { "id": 4, "question": "How long does the polish last on nails?", "answer": "With proper application including a base coat and top coat, this polish can last up to 7-10 days without significant chipping or fading, even with daily activities." },
+        { "id": 5, "question": "How do I remove this nail polish?", "answer": "This nail polish can be easily removed with any standard acetone or non-acetone nail polish remover. Soak a cotton pad and press it onto the nail for a few seconds before wiping clean." }
       ],
       "createdAt": "2025-02-18T00:00:00.000Z"
     },
@@ -230,6 +265,13 @@
         { "id": 5, "userName": "GlowGirl", "rating": 4, "comment": "Wonderful product with great ingredients. My skin feels great after using it.", "date": "2025-05-15" },
         { "id": 6, "userName": "StyleIcon", "rating": 5, "comment": "Five stars! The color is gorgeous and the formula feels lightweight.", "date": "2025-06-28" }
       ],
+      "faqs": [
+        { "id": 1, "question": "Is this foundation suitable for oily skin?", "answer": "This foundation works well on all skin types including oily skin. Its lightweight formula helps control excess shine while providing even coverage without clogging pores." },
+        { "id": 2, "question": "What level of coverage does it provide?", "answer": "This foundation offers medium buildable coverage. You can apply a single layer for a natural, skin-like finish or build it up for more coverage without it looking cakey." },
+        { "id": 3, "question": "Does it oxidize or change color after application?", "answer": "This foundation is formulated to resist oxidation, so it stays true to its shade after application. We recommend testing the shade on your jawline to ensure the best match." },
+        { "id": 4, "question": "Is the coverage buildable?", "answer": "Yes, this foundation is designed to be buildable. You can layer it to increase coverage in specific areas like blemishes or dark spots while maintaining a smooth, natural finish." },
+        { "id": 5, "question": "Does it contain SPF for sun protection?", "answer": "This foundation contains a lightweight formula but does not include SPF. We recommend applying a separate sunscreen underneath your foundation for adequate sun protection." }
+      ],
       "createdAt": "2025-02-25T00:00:00.000Z"
     },
     {
@@ -267,6 +309,13 @@
         { "id": 3, "userName": "EvelynT", "rating": 5, "comment": "This has become a staple in my beauty routine. Love everything about it.", "date": "2025-04-14" },
         { "id": 4, "userName": "AbigailN", "rating": 4, "comment": "The formula is incredible. Smooth, long-lasting, and looks beautiful.", "date": "2025-05-18" },
         { "id": 5, "userName": "SkincareJunkie", "rating": 4, "comment": "I use this almost every day and it performs consistently well.", "date": "2025-06-22" }
+      ],
+      "faqs": [
+        { "id": 1, "question": "Is this lip gloss sticky?", "answer": "No, this lip gloss features a non-sticky, lightweight formula that feels comfortable on the lips. It provides a glossy shine without the tacky or heavy feeling of traditional lip glosses." },
+        { "id": 2, "question": "Does it provide any color or is it clear?", "answer": "This lip gloss offers a beautiful tinted color that enhances your natural lip tone. It provides a sheer wash of buildable color along with a high-shine finish." },
+        { "id": 3, "question": "Can it be worn over lipstick?", "answer": "Yes, this lip gloss layers beautifully over any lipstick to add dimension and shine. It can also be worn alone for a glossy, natural look that enhances your lips." },
+        { "id": 4, "question": "Is it hydrating for the lips?", "answer": "Absolutely! This lip gloss is enriched with nourishing ingredients like Jojoba Oil and Vitamin E that moisturize and condition the lips while providing a gorgeous shine." },
+        { "id": 5, "question": "How long does the shine last?", "answer": "The high-shine finish of this gloss typically lasts 3-4 hours with normal wear. Reapplication is easy and comfortable, and the hydrating formula keeps lips conditioned between applications." }
       ],
       "createdAt": "2025-03-05T00:00:00.000Z"
     },
@@ -307,6 +356,13 @@
         { "id": 5, "userName": "Zara K.", "rating": 5, "comment": "The best in its category. I've recommended it to all my friends.", "date": "2025-05-22" },
         { "id": 6, "userName": "BeautyLover22", "rating": 4, "comment": "I use this almost every day and it performs consistently well.", "date": "2025-06-10" }
       ],
+      "faqs": [
+        { "id": 1, "question": "Is this eyeliner waterproof?", "answer": "Yes, this eyeliner is waterproof and designed to resist smudging from water, sweat, and humidity. It stays precisely where you apply it for long-lasting, clean lines throughout the day." },
+        { "id": 2, "question": "Is it easy to apply for beginners?", "answer": "This eyeliner features a smooth, glide-on formula that makes application easy even for beginners. The precise tip allows for controlled, effortless lines with minimal practice." },
+        { "id": 3, "question": "Does it smudge or transfer during the day?", "answer": "No, this eyeliner is formulated with smudge-proof technology that keeps your lines sharp and intact throughout the day. It resists transfer from rubbing and natural eye movement." },
+        { "id": 4, "question": "Can I create a winged look with this eyeliner?", "answer": "Absolutely! The fine, precise tip of this eyeliner is perfect for creating winged or cat-eye looks. Its smooth formula allows for clean, defined lines and sharp wing tips." },
+        { "id": 5, "question": "How do I remove this waterproof eyeliner?", "answer": "Use an oil-based or waterproof makeup remover with a cotton pad. Gently press it against your closed eyelid for a few seconds to dissolve the formula, then wipe away without harsh rubbing." }
+      ],
       "createdAt": "2025-03-12T00:00:00.000Z"
     },
     {
@@ -346,6 +402,13 @@
         { "id": 5, "userName": "CosmeticFan", "rating": 4, "comment": "Lovely texture and finish. It applies smoothly and looks natural.", "date": "2025-06-18" },
         { "id": 6, "userName": "GlamourGal", "rating": 5, "comment": "Five stars! The color is gorgeous and the formula feels lightweight.", "date": "2025-07-05" }
       ],
+      "faqs": [
+        { "id": 1, "question": "Is this blush highly pigmented?", "answer": "Yes, this blush offers rich pigmentation that delivers vibrant color in just one swipe. A little goes a long way, and it can be built up gradually for your desired intensity." },
+        { "id": 2, "question": "Can beginners use this blush easily?", "answer": "Absolutely! This blush has a silky, blendable texture that is very forgiving and easy to work with. Even if you over-apply, it blends out beautifully for a natural-looking flush." },
+        { "id": 3, "question": "Is it suitable for all skin tones?", "answer": "Yes, this blush is designed to complement a wide range of skin tones. Its versatile shade provides a beautiful flush on fair to deep complexions when applied with a light hand." },
+        { "id": 4, "question": "Does it contain shimmer or is it matte?", "answer": "This blush features a satin finish with a subtle luminosity that gives a healthy, natural-looking glow. It is not overly shimmery but provides a beautiful lit-from-within effect." },
+        { "id": 5, "question": "Is this blush long-lasting?", "answer": "Yes, this blush is formulated for long-lasting wear that stays fresh and vibrant for up to 8 hours. It resists fading and maintains its beautiful color throughout the day." }
+      ],
       "createdAt": "2025-03-20T00:00:00.000Z"
     },
     {
@@ -383,6 +446,13 @@
         { "id": 3, "userName": "OliviaJ", "rating": 4, "comment": "Really impressed with the quality. Will definitely buy again!", "date": "2025-04-18" },
         { "id": 4, "userName": "PrettyInPink", "rating": 4, "comment": "This has become a staple in my beauty routine. Love everything about it.", "date": "2025-05-28" },
         { "id": 5, "userName": "NaturalBeauty", "rating": 5, "comment": "Fantastic product! It does everything it promises and more.", "date": "2025-06-15" }
+      ],
+      "faqs": [
+        { "id": 1, "question": "How long does this setting spray extend makeup wear?", "answer": "This setting spray extends makeup wear by up to 8-10 additional hours. It creates an invisible shield over your makeup to lock everything in place and prevent fading or smudging." },
+        { "id": 2, "question": "Is it suitable for all skin types?", "answer": "Yes, this setting spray is formulated for all skin types including oily, dry, and combination skin. Its lightweight, non-greasy formula works without clogging pores or causing breakouts." },
+        { "id": 3, "question": "Does it leave a sticky or shiny finish?", "answer": "No, this setting spray dries down to a natural, weightless finish. It does not leave any sticky, tacky, or overly shiny residue on the skin." },
+        { "id": 4, "question": "Can I use it to refresh my makeup during the day?", "answer": "Absolutely! This spray doubles as a refreshing mist. Spritz it over your makeup throughout the day to revive your look and keep it looking freshly applied." },
+        { "id": 5, "question": "Does it help control oil throughout the day?", "answer": "Yes, this setting spray includes oil-absorbing properties that help control shine and excess oil production. It keeps your complexion looking matte and fresh, especially in the T-zone area." }
       ],
       "createdAt": "2025-03-28T00:00:00.000Z"
     },
@@ -424,6 +494,13 @@
         { "id": 6, "userName": "HarperG", "rating": 4, "comment": "Amazing product! The packaging is also very pretty and sturdy.", "date": "2025-06-22" },
         { "id": 7, "userName": "EvelynT", "rating": 5, "comment": "This has become a staple in my beauty routine. Love everything about it.", "date": "2025-07-08" }
       ],
+      "faqs": [
+        { "id": 1, "question": "Does it clump on the lashes?", "answer": "No, this mascara features a specially designed formula that coats each lash evenly without clumping. The brush separates lashes for a smooth, defined look with every application." },
+        { "id": 2, "question": "How long does the mascara last without smudging?", "answer": "This mascara is designed to last up to 12 hours without smudging, flaking, or fading. It maintains its volume and length throughout the day, even in humid conditions." },
+        { "id": 3, "question": "Is it suitable for sensitive eyes or contact lens wearers?", "answer": "Yes, this mascara is ophthalmologist-tested and suitable for sensitive eyes and contact lens wearers. It is free from harsh irritants and has been formulated to minimize the risk of eye irritation." },
+        { "id": 4, "question": "How do I remove this mascara properly?", "answer": "For best results, use a gentle eye makeup remover or micellar water on a cotton pad. Press it against your closed eyelid for a few seconds, then gently wipe downward. Avoid rubbing to protect your lashes." },
+        { "id": 5, "question": "Can I layer this mascara for extra volume?", "answer": "Absolutely! This mascara is buildable, so you can apply multiple coats to achieve your desired level of volume and length without the formula becoming heavy or flaky." }
+      ],
       "createdAt": "2025-04-02T00:00:00.000Z"
     },
     {
@@ -462,6 +539,13 @@
         { "id": 4, "userName": "TrendyMiss", "rating": 5, "comment": "This product exceeded my expectations. Beautiful result every time.", "date": "2025-05-12" },
         { "id": 5, "userName": "Divya P.", "rating": 4, "comment": "Lovely texture and finish. It applies smoothly and looks natural.", "date": "2025-06-18" },
         { "id": 6, "userName": "GlowGirl", "rating": 4, "comment": "Perfect for everyday use. The quality is comparable to high-end brands.", "date": "2025-07-02" }
+      ],
+      "faqs": [
+        { "id": 1, "question": "How long does the color stay on the lips?", "answer": "This lipstick is formulated to last up to 8 hours with normal wear. It maintains its vibrant color throughout the day, though a light touch-up may be needed after heavy meals." },
+        { "id": 2, "question": "Is this lipstick moisturizing?", "answer": "Yes, this lipstick is infused with hydrating ingredients like Shea Butter and Vitamin E that keep your lips moisturized and comfortable all day without drying them out." },
+        { "id": 3, "question": "Is it suitable for everyday use?", "answer": "Absolutely! This lipstick features a lightweight, comfortable formula that is gentle on lips and perfect for daily wear. Its nourishing ingredients ensure your lips stay soft with regular use." },
+        { "id": 4, "question": "Does it bleed or feather outside the lip line?", "answer": "No, this lipstick is designed with a creamy yet precise formula that stays within the lip line. For extra precision, you can pair it with a lip liner to prevent any feathering." },
+        { "id": 5, "question": "Is the shade suitable for all skin tones?", "answer": "This shade is universally flattering and complements a wide range of skin tones. It has warm and neutral undertones that enhance your natural lip color beautifully." }
       ],
       "createdAt": "2025-04-10T00:00:00.000Z"
     },
@@ -502,6 +586,13 @@
         { "id": 5, "userName": "Kavya N.", "rating": 4, "comment": "Can't believe how good this is for the price. Truly amazing quality.", "date": "2025-06-15" },
         { "id": 6, "userName": "Isha G.", "rating": 5, "comment": "Wonderful product with great ingredients. My skin feels great after using it.", "date": "2025-07-10" }
       ],
+      "faqs": [
+        { "id": 1, "question": "Is this highlighter highly pigmented?", "answer": "Yes, this highlighter delivers an intense, luminous glow with a single swipe. Its finely milled formula provides rich pigmentation that catches the light beautifully for a radiant finish." },
+        { "id": 2, "question": "Can beginners use this highlighter?", "answer": "Absolutely! This highlighter is easy to apply and blend, making it perfect for beginners. Start with a small amount on the high points of your face and build up to your desired glow." },
+        { "id": 3, "question": "Is it suitable for all skin tones?", "answer": "Yes, this highlighter is designed to complement all skin tones. Its universally flattering shade adapts to your natural skin color to provide a beautiful, lit-from-within glow." },
+        { "id": 4, "question": "Does it contain shimmer or glitter?", "answer": "This highlighter features a refined shimmer finish without chunky glitter. It provides a smooth, luminous glow that looks elegant and natural rather than overly sparkly." },
+        { "id": 5, "question": "Is this highlighter long-lasting?", "answer": "Yes, this highlighter is formulated for long-lasting wear that maintains its radiant glow for up to 8 hours. It resists fading and stays luminous without needing touch-ups." }
+      ],
       "createdAt": "2025-04-18T00:00:00.000Z"
     },
     {
@@ -539,6 +630,13 @@
         { "id": 3, "userName": "EmmaB", "rating": 4, "comment": "Really impressed with the quality. Will definitely buy again!", "date": "2025-04-18" },
         { "id": 4, "userName": "MakeupQueen", "rating": 4, "comment": "Perfect for everyday use. The quality is comparable to high-end brands.", "date": "2025-05-22" },
         { "id": 5, "userName": "SkincareJunkie", "rating": 5, "comment": "Fantastic product! It does everything it promises and more.", "date": "2025-06-28" }
+      ],
+      "faqs": [
+        { "id": 1, "question": "Is this beauty tool reusable?", "answer": "Yes, this beauty tool is designed for repeated use. With proper cleaning and care, it maintains its quality and performance for many months of daily use." },
+        { "id": 2, "question": "How should I clean this tool?", "answer": "Clean this tool after every use with mild soap or a dedicated brush/sponge cleanser and warm water. Gently squeeze out excess water and lay flat to air dry completely before the next use." },
+        { "id": 3, "question": "Can beginners use this tool effectively?", "answer": "Absolutely! This tool is designed to be user-friendly and intuitive for all skill levels. Its ergonomic design makes it easy for beginners to achieve professional-looking results." },
+        { "id": 4, "question": "Is it latex-free and hypoallergenic?", "answer": "Yes, this tool is made from latex-free, hypoallergenic materials that are safe for all skin types, including sensitive skin. It will not cause irritation or allergic reactions." },
+        { "id": 5, "question": "How often should it be replaced?", "answer": "For best hygiene and performance, we recommend replacing this tool every 3 months with regular use. Signs that it needs replacing include tears, loss of shape, or persistent staining." }
       ],
       "createdAt": "2025-04-25T00:00:00.000Z"
     },
@@ -578,6 +676,13 @@
         { "id": 4, "userName": "GlamourGal", "rating": 4, "comment": "I use this almost every day and it performs consistently well.", "date": "2025-05-22" },
         { "id": 5, "userName": "NaturalBeauty", "rating": 5, "comment": "This product exceeded my expectations. Beautiful result every time.", "date": "2025-06-28" }
       ],
+      "faqs": [
+        { "id": 1, "question": "Is it chip-resistant?", "answer": "Yes, this nail polish is formulated with a chip-resistant technology that helps the color stay intact for up to 7 days with proper application and a top coat." },
+        { "id": 2, "question": "How long does the polish last on nails?", "answer": "With proper application including a base coat and top coat, this polish can last up to 7-10 days without significant chipping or fading, even with daily activities." },
+        { "id": 3, "question": "How do I remove this nail polish?", "answer": "This nail polish can be easily removed with any standard acetone or non-acetone nail polish remover. Soak a cotton pad and press it onto the nail for a few seconds before wiping clean." },
+        { "id": 4, "question": "Is it free from harmful chemicals?", "answer": "Yes, this nail polish is formulated without the most common harmful chemicals. It is free from formaldehyde, toluene, and DBP, making it a safer choice for regular use." },
+        { "id": 5, "question": "Can I use it without a base coat?", "answer": "While the polish applies well on bare nails, we recommend using a base coat for the longest wear time and to protect your natural nails from potential staining." }
+      ],
       "createdAt": "2025-05-01T00:00:00.000Z"
     },
     {
@@ -616,6 +721,13 @@
         { "id": 4, "userName": "BeautyLover22", "rating": 5, "comment": "Beautiful packaging and even better product inside. A must-have!", "date": "2025-05-15" },
         { "id": 5, "userName": "PrettyInPink", "rating": 4, "comment": "Perfect for everyday use. The quality is comparable to high-end brands.", "date": "2025-06-20" }
       ],
+      "faqs": [
+        { "id": 1, "question": "Does this concealer provide full coverage?", "answer": "Yes, this concealer offers full, buildable coverage that effectively hides dark circles, blemishes, and discoloration. You can use a thin layer for a natural look or build up for maximum coverage." },
+        { "id": 2, "question": "Is it suitable for under-eye use?", "answer": "Absolutely! This concealer is specifically formulated for the delicate under-eye area. Its hydrating formula prevents creasing and settling into fine lines for a smooth, brightened finish." },
+        { "id": 3, "question": "Does it crease or settle into fine lines?", "answer": "This concealer is formulated with a crease-resistant technology that keeps it smooth and flawless throughout the day. For best results, set it with a light dusting of translucent powder." },
+        { "id": 4, "question": "Can I use it to cover blemishes?", "answer": "Yes, this concealer works excellently on blemishes, redness, and dark spots. Its pigmented formula provides targeted coverage that blends seamlessly with your foundation for a flawless finish." },
+        { "id": 5, "question": "Is it long-lasting throughout the day?", "answer": "This concealer is designed to last up to 12 hours with proper application. It maintains its coverage and brightness without fading, so your skin looks flawless from morning to night." }
+      ],
       "createdAt": "2025-05-08T00:00:00.000Z"
     },
     {
@@ -653,6 +765,13 @@
         { "id": 3, "userName": "MiaMakeup", "rating": 5, "comment": "I've tried many brands but this one stands out. Highly recommend!", "date": "2025-04-22" },
         { "id": 4, "userName": "CosmeticFan", "rating": 4, "comment": "I use this almost every day and it performs consistently well.", "date": "2025-05-30" },
         { "id": 5, "userName": "TrendyMiss", "rating": 4, "comment": "This has become a staple in my beauty routine. Love everything about it.", "date": "2025-06-25" }
+      ],
+      "faqs": [
+        { "id": 1, "question": "Does this brow product look natural on the brows?", "answer": "Yes, this brow product is designed to mimic the appearance of natural brow hairs. Its fine tip allows for precise, hair-like strokes that fill in sparse areas without looking drawn on." },
+        { "id": 2, "question": "Is it easy to blend and shape?", "answer": "Absolutely! This product features a smooth, blendable formula that allows you to easily shape and define your brows. The built-in spoolie helps blend the product for a seamless, groomed look." },
+        { "id": 3, "question": "Is it smudge-proof throughout the day?", "answer": "Yes, this brow product is formulated to be smudge-proof and water-resistant. Once set, it stays in place all day without smearing or fading, even in humid conditions." },
+        { "id": 4, "question": "Can beginners use this easily?", "answer": "This brow product is very beginner-friendly. Its precise application tip makes it easy to create natural-looking strokes, and any mistakes can be easily blended out with the spoolie end." },
+        { "id": 5, "question": "How long does it last without retouching?", "answer": "This brow product is designed to last up to 12 hours without retouching. Its long-wear formula ensures your brows stay defined and groomed from morning until night." }
       ],
       "createdAt": "2025-05-15T00:00:00.000Z"
     },
@@ -693,6 +812,13 @@
         { "id": 5, "userName": "StyleIcon", "rating": 5, "comment": "Five stars! The color is gorgeous and the formula feels lightweight.", "date": "2025-06-30" },
         { "id": 6, "userName": "MakeupQueen", "rating": 4, "comment": "Wonderful product with great ingredients. My skin feels great after using it.", "date": "2025-07-12" }
       ],
+      "faqs": [
+        { "id": 1, "question": "Does it leave a white cast on deeper skin tones?", "answer": "No, this powder is designed with a translucent formula that blends seamlessly into all skin tones without leaving any white cast or ashy residue." },
+        { "id": 2, "question": "Is this powder lightweight on the skin?", "answer": "Yes, this finely milled powder feels weightless on the skin. It provides a smooth, natural finish without adding any heaviness or cakiness to your makeup." },
+        { "id": 3, "question": "How long does the matte finish last?", "answer": "The matte finish from this powder typically lasts between 6 to 8 hours, depending on skin type. For oily skin, a light touch-up at midday will keep your look fresh all day." },
+        { "id": 4, "question": "Can I use this powder for baking?", "answer": "Yes, this powder works excellently for the baking technique. Apply a generous amount to the under-eye area and let it sit for a few minutes before dusting off for a flawless, creaseless finish." },
+        { "id": 5, "question": "Does it set liquid foundation well?", "answer": "This powder is excellent at setting liquid and cream foundations. It locks in your base makeup, extends wear time, and helps prevent creasing and fading throughout the day." }
+      ],
       "createdAt": "2025-05-22T00:00:00.000Z"
     },
     {
@@ -730,6 +856,13 @@
         { "id": 3, "userName": "SophiaLiu", "rating": 4, "comment": "The formula is incredible. Smooth, long-lasting, and looks beautiful.", "date": "2025-04-28" },
         { "id": 4, "userName": "NaturalBeauty", "rating": 5, "comment": "This has become a staple in my beauty routine. Love everything about it.", "date": "2025-05-18" },
         { "id": 5, "userName": "GlamourGal", "rating": 4, "comment": "So glad I found this. It blends beautifully and stays on all day.", "date": "2025-06-25" }
+      ],
+      "faqs": [
+        { "id": 1, "question": "Is it suitable for all skin tones?", "answer": "Yes, this blush is designed to complement a wide range of skin tones. Its versatile shade provides a beautiful flush on fair to deep complexions when applied with a light hand." },
+        { "id": 2, "question": "Does it contain shimmer or is it matte?", "answer": "This blush features a satin finish with a subtle luminosity that gives a healthy, natural-looking glow. It is not overly shimmery but provides a beautiful lit-from-within effect." },
+        { "id": 3, "question": "Is this blush long-lasting?", "answer": "Yes, this blush is formulated for long-lasting wear that stays fresh and vibrant for up to 8 hours. It resists fading and maintains its beautiful color throughout the day." },
+        { "id": 4, "question": "Can I use it as an eyeshadow too?", "answer": "Yes, this blush is multi-purpose and can be used on the eyes as well. Its soft, blendable formula works beautifully as a monochromatic eyeshadow for a cohesive, harmonious look." },
+        { "id": 5, "question": "Does it work well on dry skin?", "answer": "This blush is enriched with skin-conditioning ingredients that keep it smooth and blendable on all skin types, including dry skin. It will not emphasize dry patches or flakiness." }
       ],
       "createdAt": "2025-05-28T00:00:00.000Z"
     },
@@ -770,6 +903,13 @@
         { "id": 5, "userName": "Palak M.", "rating": 5, "comment": "The best in its category. I've recommended it to all my friends.", "date": "2025-06-18" },
         { "id": 6, "userName": "HarperG", "rating": 4, "comment": "I use this almost every day and it performs consistently well.", "date": "2025-07-08" }
       ],
+      "faqs": [
+        { "id": 1, "question": "How do I remove this nail polish?", "answer": "This nail polish can be easily removed with any standard acetone or non-acetone nail polish remover. Soak a cotton pad and press it onto the nail for a few seconds before wiping clean." },
+        { "id": 2, "question": "Is it free from harmful chemicals?", "answer": "Yes, this nail polish is formulated without the most common harmful chemicals. It is free from formaldehyde, toluene, and DBP, making it a safer choice for regular use." },
+        { "id": 3, "question": "Can I use it without a base coat?", "answer": "While the polish applies well on bare nails, we recommend using a base coat for the longest wear time and to protect your natural nails from potential staining." },
+        { "id": 4, "question": "Is this nail polish quick drying?", "answer": "Yes, this nail polish features a quick-dry formula that sets within 60 seconds of application. A full cure is achieved within 5 minutes, so you can get back to your routine quickly." },
+        { "id": 5, "question": "How many coats are recommended for best results?", "answer": "For optimal color and coverage, we recommend applying two thin coats. Allow each coat to dry for about a minute before applying the next to achieve the best finish." }
+      ],
       "createdAt": "2025-06-02T00:00:00.000Z"
     },
     {
@@ -809,6 +949,13 @@
         { "id": 5, "userName": "BeautyLover22", "rating": 4, "comment": "Amazing product! The packaging is also very pretty and sturdy.", "date": "2025-06-28" },
         { "id": 6, "userName": "MiaMakeup", "rating": 5, "comment": "Fantastic product! It does everything it promises and more.", "date": "2025-07-15" }
       ],
+      "faqs": [
+        { "id": 1, "question": "How long does the mascara last without smudging?", "answer": "This mascara is designed to last up to 12 hours without smudging, flaking, or fading. It maintains its volume and length throughout the day, even in humid conditions." },
+        { "id": 2, "question": "Is it suitable for sensitive eyes or contact lens wearers?", "answer": "Yes, this mascara is ophthalmologist-tested and suitable for sensitive eyes and contact lens wearers. It is free from harsh irritants and has been formulated to minimize the risk of eye irritation." },
+        { "id": 3, "question": "How do I remove this mascara properly?", "answer": "For best results, use a gentle eye makeup remover or micellar water on a cotton pad. Press it against your closed eyelid for a few seconds, then gently wipe downward. Avoid rubbing to protect your lashes." },
+        { "id": 4, "question": "Can I layer this mascara for extra volume?", "answer": "Absolutely! This mascara is buildable, so you can apply multiple coats to achieve your desired level of volume and length without the formula becoming heavy or flaky." },
+        { "id": 5, "question": "Does it contain any fibers for lengthening?", "answer": "Yes, this mascara contains microfibers that adhere to your natural lashes, creating an extended lengthening effect while maintaining a natural appearance without feeling stiff." }
+      ],
       "createdAt": "2025-06-08T00:00:00.000Z"
     },
     {
@@ -847,6 +994,13 @@
         { "id": 4, "userName": "AvaSmith", "rating": 5, "comment": "Five stars! The color is gorgeous and the formula feels lightweight.", "date": "2025-05-28" },
         { "id": 5, "userName": "TrendyMiss", "rating": 5, "comment": "The best in its category. I've recommended it to all my friends.", "date": "2025-06-15" },
         { "id": 6, "userName": "CosmeticFan", "rating": 4, "comment": "This has become a staple in my beauty routine. Love everything about it.", "date": "2025-07-10" }
+      ],
+      "faqs": [
+        { "id": 1, "question": "Is it suitable for everyday use?", "answer": "Absolutely! This lipstick features a lightweight, comfortable formula that is gentle on lips and perfect for daily wear. Its nourishing ingredients ensure your lips stay soft with regular use." },
+        { "id": 2, "question": "Does it bleed or feather outside the lip line?", "answer": "No, this lipstick is designed with a creamy yet precise formula that stays within the lip line. For extra precision, you can pair it with a lip liner to prevent any feathering." },
+        { "id": 3, "question": "Is the shade suitable for all skin tones?", "answer": "This shade is universally flattering and complements a wide range of skin tones. It has warm and neutral undertones that enhance your natural lip color beautifully." },
+        { "id": 4, "question": "Is this lipstick transfer-proof?", "answer": "This lipstick is formulated with long-wear technology that significantly reduces transfer. While it may leave minimal marks, it holds its color beautifully throughout eating, drinking, and daily activities." },
+        { "id": 5, "question": "Is the finish matte or glossy?", "answer": "This lipstick offers a luxurious satin finish that strikes a perfect balance between matte and glossy. It provides rich color with a slight sheen for a polished, elegant look." }
       ],
       "createdAt": "2025-06-15T00:00:00.000Z"
     },
@@ -888,6 +1042,13 @@
         { "id": 6, "userName": "StyleIcon", "rating": 5, "comment": "Beautiful packaging and even better product inside. A must-have!", "date": "2025-06-30" },
         { "id": 7, "userName": "PrettyInPink", "rating": 5, "comment": "Fantastic product! It does everything it promises and more.", "date": "2025-07-15" }
       ],
+      "faqs": [
+        { "id": 1, "question": "Does this bronzer look natural on the skin?", "answer": "Yes, this bronzer is formulated with finely milled pigments that blend seamlessly into the skin for a natural, sun-kissed look. It adds warmth without looking muddy or orange." },
+        { "id": 2, "question": "Is it suitable for contouring?", "answer": "Absolutely! This bronzer can be used for contouring to add definition and dimension to your face. Its blendable formula allows for precise sculpting of cheekbones, jawline, and temples." },
+        { "id": 3, "question": "Does it work on all skin tones?", "answer": "Yes, this bronzer is designed to complement a wide range of skin tones. Its versatile shade adds warmth and dimension to fair, medium, and deep complexions alike." },
+        { "id": 4, "question": "Is it buildable for a deeper bronze look?", "answer": "Yes, this bronzer is fully buildable. You can apply a light layer for a subtle warmth or build up the product for a more intense, sculpted bronze look without it becoming patchy." },
+        { "id": 5, "question": "Does it last throughout the day?", "answer": "This bronzer is formulated for long-lasting wear that maintains its warm, sculpted finish for up to 8 hours. It resists fading and stays blended throughout the day." }
+      ],
       "createdAt": "2025-06-22T00:00:00.000Z"
     },
     {
@@ -925,6 +1086,13 @@
         { "id": 3, "userName": "EvelynT", "rating": 4, "comment": "Perfect for everyday use. The quality is comparable to high-end brands.", "date": "2025-04-25" },
         { "id": 4, "userName": "AbigailN", "rating": 4, "comment": "Lovely texture and finish. It applies smoothly and looks natural.", "date": "2025-05-30" },
         { "id": 5, "userName": "GlamourGal", "rating": 3, "comment": "Good product overall. Does what it says but nothing extraordinary.", "date": "2025-06-22" }
+      ],
+      "faqs": [
+        { "id": 1, "question": "Is it suitable for sensitive skin around the eyes?", "answer": "Yes, this eyeshadow is dermatologist-tested and formulated without harsh chemicals, making it safe for sensitive skin around the delicate eye area." },
+        { "id": 2, "question": "How long does the color last?", "answer": "With proper application over a primer, this eyeshadow can last up to 10-12 hours without creasing or fading. It is formulated with long-wear technology for all-day color retention." },
+        { "id": 3, "question": "Does it crease throughout the day?", "answer": "This eyeshadow is crease-resistant and stays smooth on the eyelid for hours. For best results, apply an eyeshadow primer beforehand to extend wear time even further." },
+        { "id": 4, "question": "Is the shimmer fallout-free?", "answer": "The formula is designed to minimize fallout during application. The shimmer particles are finely milled and adhere well to the skin, reducing mess and ensuring a clean application." },
+        { "id": 5, "question": "Can beginners blend this eyeshadow easily?", "answer": "Yes, this eyeshadow has a buttery, blendable texture that is very forgiving and easy to work with, making it ideal for beginners who are learning blending techniques." }
       ],
       "createdAt": "2025-06-28T00:00:00.000Z"
     },
@@ -964,6 +1132,13 @@
         { "id": 4, "userName": "SkincareJunkie", "rating": 4, "comment": "Wonderful product with great ingredients. My skin feels great after using it.", "date": "2025-05-22" },
         { "id": 5, "userName": "MakeupQueen", "rating": 4, "comment": "I use this almost every day and it performs consistently well.", "date": "2025-06-30" }
       ],
+      "faqs": [
+        { "id": 1, "question": "Does this primer minimize the appearance of pores?", "answer": "Yes, this primer creates a smoothing effect that visually minimizes the appearance of pores. It fills in fine lines and imperfections to create a flawless, even canvas for makeup application." },
+        { "id": 2, "question": "Can it be used alone without foundation?", "answer": "Absolutely! This primer works beautifully on its own to smooth and even out the skin. It provides a natural, refined look and can be worn alone for a no-makeup, polished appearance." },
+        { "id": 3, "question": "Is it suitable for sensitive skin?", "answer": "Yes, this primer is dermatologist-tested and formulated without harsh chemicals or fragrances. It is gentle on sensitive skin and helps create a protective barrier between your skin and makeup." },
+        { "id": 4, "question": "How long does it help makeup last?", "answer": "This primer extends makeup wear by up to 8-10 hours. It creates a smooth, gripping base that helps foundation, concealer, and other products adhere better and last longer." },
+        { "id": 5, "question": "Does it feel greasy or heavy on the skin?", "answer": "No, this primer has a lightweight, silky texture that feels weightless on the skin. It absorbs quickly and leaves a smooth, non-greasy finish that is comfortable to wear all day." }
+      ],
       "createdAt": "2025-07-05T00:00:00.000Z"
     },
     {
@@ -1002,6 +1177,13 @@
         { "id": 4, "userName": "NaturalBeauty", "rating": 4, "comment": "Lovely texture and finish. It applies smoothly and looks natural.", "date": "2025-05-30" },
         { "id": 5, "userName": "BeautyLover22", "rating": 4, "comment": "Perfect for everyday use. The quality is comparable to high-end brands.", "date": "2025-06-25" }
       ],
+      "faqs": [
+        { "id": 1, "question": "Is it highly pigmented?", "answer": "Yes, this highlighter delivers an intense, luminous glow with a single swipe. Its finely milled formula provides rich pigmentation that catches the light beautifully for a radiant finish." },
+        { "id": 2, "question": "Can beginners use it?", "answer": "Absolutely! This highlighter is easy to apply and blend, making it perfect for beginners. Start with a small amount on the high points of your face and build up to your desired glow." },
+        { "id": 3, "question": "Is it suitable for all skin tones?", "answer": "Yes, this highlighter is designed to complement all skin tones. Its universally flattering shade adapts to your natural skin color to provide a beautiful, lit-from-within glow." },
+        { "id": 4, "question": "Does it contain shimmer?", "answer": "This highlighter features a refined shimmer finish without chunky glitter. It provides a smooth, luminous glow that looks elegant and natural rather than overly sparkly." },
+        { "id": 5, "question": "Is it long-lasting?", "answer": "Yes, this highlighter is formulated for long-lasting wear that maintains its radiant glow for up to 8 hours. It resists fading and stays luminous without needing touch-ups." }
+      ],
       "createdAt": "2025-07-10T00:00:00.000Z"
     },
     {
@@ -1039,6 +1221,13 @@
         { "id": 3, "userName": "Ritika A.", "rating": 4, "comment": "I use this almost every day and it performs consistently well.", "date": "2025-04-20" },
         { "id": 4, "userName": "SophiaLiu", "rating": 4, "comment": "Can't believe how good this is for the price. Truly amazing quality.", "date": "2025-05-28" },
         { "id": 5, "userName": "CosmeticFan", "rating": 5, "comment": "Fantastic product! It does everything it promises and more.", "date": "2025-06-22" }
+      ],
+      "faqs": [
+        { "id": 1, "question": "Does this brow product look natural?", "answer": "Yes, this brow product is designed to mimic the appearance of natural brow hairs. Its fine tip allows for precise, hair-like strokes that fill in sparse areas without looking drawn on." },
+        { "id": 2, "question": "Is it easy to blend and shape?", "answer": "Absolutely! This product features a smooth, blendable formula that allows you to easily shape and define your brows. The built-in spoolie helps blend the product for a seamless, groomed look." },
+        { "id": 3, "question": "Is it smudge-proof throughout the day?", "answer": "Yes, this brow product is formulated to be smudge-proof and water-resistant. Once set, it stays in place all day without smearing or fading, even in humid conditions." },
+        { "id": 4, "question": "Can beginners use it easily?", "answer": "This brow product is very beginner-friendly. Its precise application tip makes it easy to create natural-looking strokes, and any mistakes can be easily blended out with the spoolie end." },
+        { "id": 5, "question": "How long does it last without retouching?", "answer": "This brow product is designed to last up to 12 hours without retouching. Its long-wear formula ensures your brows stay defined and groomed from morning until night." }
       ],
       "createdAt": "2025-01-18T00:00:00.000Z"
     },
@@ -1079,6 +1268,13 @@
         { "id": 5, "userName": "GlamourGal", "rating": 4, "comment": "This has become a staple in my beauty routine. Love everything about it.", "date": "2025-05-25" },
         { "id": 6, "userName": "TrendyMiss", "rating": 5, "comment": "Five stars! The color is gorgeous and the formula feels lightweight.", "date": "2025-06-30" }
       ],
+      "faqs": [
+        { "id": 1, "question": "Is it sticky?", "answer": "No, this lip gloss/lip tint features a non-sticky, lightweight formula that feels comfortable on the lips. It provides a glossy shine without the tacky or heavy feeling of traditional lip glosses." },
+        { "id": 2, "question": "Does it provide any color or is it clear?", "answer": "This lip tint offers a beautiful tinted color that enhances your natural lip tone. It provides a sheer wash of buildable color along with a high-shine finish." },
+        { "id": 3, "question": "Can it be worn over lipstick?", "answer": "Yes, this lip tint layers beautifully over any lipstick to add dimension and shine. It can also be worn alone for a glossy, natural look that enhances your lips." },
+        { "id": 4, "question": "Is it hydrating for the lips?", "answer": "Absolutely! This lip tint is enriched with nourishing ingredients like Jojoba Oil and Vitamin E that moisturize and condition the lips while providing a gorgeous shine." },
+        { "id": 5, "question": "How long does the shine last?", "answer": "The high-shine finish of this gloss/tint typically lasts 3-4 hours with normal wear. Reapplication is easy and comfortable, and the hydrating formula keeps lips conditioned between applications." }
+      ],
       "createdAt": "2025-02-05T00:00:00.000Z"
     },
     {
@@ -1118,6 +1314,13 @@
         { "id": 5, "userName": "NaturalBeauty", "rating": 5, "comment": "The best in its category. I've recommended it to all my friends.", "date": "2025-05-30" },
         { "id": 6, "userName": "SkincareJunkie", "rating": 4, "comment": "I use this almost every day and it performs consistently well.", "date": "2025-06-28" }
       ],
+      "faqs": [
+        { "id": 1, "question": "Is it reusable?", "answer": "Yes, these makeup brushes are designed for repeated use. With proper cleaning and care, they maintain their quality and performance for many months of daily use." },
+        { "id": 2, "question": "How should I clean it?", "answer": "Clean these brushes after every use with mild soap or a dedicated brush cleanser and warm water. Gently squeeze out excess water and lay flat to air dry completely before the next use." },
+        { "id": 3, "question": "Can beginners use it?", "answer": "Absolutely! This set is designed to be user-friendly and intuitive for all skill levels. The ergonomic handles make it easy for beginners to achieve professional-looking blending." },
+        { "id": 4, "question": "Is it latex-free?", "answer": "Yes, these brushes are made of high-quality synthetic fibers and contain no latex, making them hypoallergenic and safe for sensitive skin types." },
+        { "id": 5, "question": "How often should it be replaced?", "answer": "For best hygiene and performance, we recommend replacing makeup brushes every 6 to 12 months with regular daily use, or sooner if the bristles start shedding significantly." }
+      ],
       "createdAt": "2025-02-12T00:00:00.000Z"
     },
     {
@@ -1155,6 +1358,13 @@
         { "id": 3, "userName": "Palak M.", "rating": 4, "comment": "Can't believe how good this is for the price. Truly amazing quality.", "date": "2025-04-28" },
         { "id": 4, "userName": "HarperG", "rating": 5, "comment": "Wonderful product with great ingredients. My skin feels great after using it.", "date": "2025-05-25" },
         { "id": 5, "userName": "StyleIcon", "rating": 5, "comment": "Beautiful packaging and even better product inside. A must-have!", "date": "2025-06-30" }
+      ],
+      "faqs": [
+        { "id": 1, "question": "Is it reusable?", "answer": "Yes, this compact mirror is built with durable materials designed for long-term reusable daily wear and tear in your handbag." },
+        { "id": 2, "question": "How should I clean it?", "answer": "Clean the mirror surfaces with a soft microfiber cloth. You can use a tiny drop of glass cleaner or rubbing alcohol to remove fingerprints or makeup residue." },
+        { "id": 3, "question": "Can beginners use it?", "answer": "Absolutely! It is a standard compact mirror designed for easy handling and quick makeup checks for users of all experience levels." },
+        { "id": 4, "question": "Is it latex-free?", "answer": "Yes, the mirror casing is made from acrylic glass and plastics that are completely latex-free." },
+        { "id": 5, "question": "How often should it be replaced?", "answer": "This mirror does not expire or need regular replacement unless the glass is cracked, scratched, or the hinge mechanism is damaged." }
       ],
       "createdAt": "2025-02-20T00:00:00.000Z"
     },
@@ -1194,6 +1404,13 @@
         { "id": 4, "userName": "GlowGirl", "rating": 5, "comment": "Fantastic product! It does everything it promises and more.", "date": "2025-05-28" },
         { "id": 5, "userName": "BeautyLover22", "rating": 4, "comment": "Perfect for everyday use. The quality is comparable to high-end brands.", "date": "2025-06-25" }
       ],
+      "faqs": [
+        { "id": 1, "question": "Is it suitable for oily skin?", "answer": "Yes, this hydrating BB cream works well on most skin types. If you have extremely oily skin, you may want to set it with a light translucent powder to control midday shine." },
+        { "id": 2, "question": "What coverage does it provide?", "answer": "This BB cream provides light to medium, natural-looking coverage. It is perfect for evening out skin tone and covering minor blemishes while leaving a dewy, skin-like finish." },
+        { "id": 3, "question": "Does it oxidize?", "answer": "No, this formula is designed to resist oxidation, meaning it stays true to its initial shade and will not turn orange or darken throughout the day." },
+        { "id": 4, "question": "Is it buildable?", "answer": "Yes, the lightweight formula is buildable. You can apply a second layer on areas that require more coverage without worrying about cakiness." },
+        { "id": 5, "question": "Does it contain SPF?", "answer": "No, this specific BB cream does not contain SPF. We recommend applying your daily sunscreen underneath this cream for full sun protection." }
+      ],
       "createdAt": "2025-03-01T00:00:00.000Z"
     },
     {
@@ -1232,6 +1449,13 @@
         { "id": 4, "userName": "MakeupQueen", "rating": 4, "comment": "This has become a staple in my beauty routine. Love everything about it.", "date": "2025-05-30" },
         { "id": 5, "userName": "TrendyMiss", "rating": 4, "comment": "Can't believe how good this is for the price. Truly amazing quality.", "date": "2025-06-28" }
       ],
+      "faqs": [
+        { "id": 1, "question": "Is this eyeliner waterproof?", "answer": "Yes, this kajal pencil is waterproof and smudge-proof. It is formulated to resist sweat, tears, and humidity, keeping your eyes defined all day." },
+        { "id": 2, "question": "Is it easy to apply for beginners?", "answer": "Absolutely! The creamy formula glides on smoothly without tugging the eyelids, making it very easy for beginners to draw precise lines." },
+        { "id": 3, "question": "Does it smudge or transfer?", "answer": "Once set, this kajal pencil does not smudge or transfer. It stays locked on your waterline or lash line throughout the day." },
+        { "id": 4, "question": "Can I create a winged look?", "answer": "Yes, you can sharpen the pencil tip for precise lines to create a winged look, or smudge it immediately after application for a smoky eye effect." },
+        { "id": 5, "question": "How do I remove it?", "answer": "Since it is a long-wear waterproof formula, we recommend using an oil-based makeup remover or micellar water on a cotton pad to gently wipe it away." }
+      ],
       "createdAt": "2025-03-08T00:00:00.000Z"
     },
     {
@@ -1269,6 +1493,13 @@
         { "id": 3, "userName": "CharlotteK", "rating": 4, "comment": "Great value for the price. I use it daily and it never disappoints.", "date": "2025-04-28" },
         { "id": 4, "userName": "GlamourGal", "rating": 4, "comment": "Perfect for everyday use. The quality is comparable to high-end brands.", "date": "2025-05-22" },
         { "id": 5, "userName": "AbigailN", "rating": 5, "comment": "The best in its category. I've recommended it to all my friends.", "date": "2025-06-30" }
+      ],
+      "faqs": [
+        { "id": 1, "question": "Does this concealer provide full coverage?", "answer": "Yes, this color corrector palette offers buildable medium-to-full coverage to cancel out redness, dark circles, and skin discolorations." },
+        { "id": 2, "question": "Is it suitable for under-eye use?", "answer": "Absolutely. The cream formula blends smoothly under the eyes to neutralize dark circles, but should be set with powder to avoid creasing." },
+        { "id": 3, "question": "Does it crease or settle into fine lines?", "answer": "This cream formula is designed to be highly blendable. However, setting it with a translucent setting powder will prevent any creasing in fine lines." },
+        { "id": 4, "question": "Can I use it to cover blemishes?", "answer": "Yes, the green corrector in the palette is specifically designed to neutralize red blemishes, while the skin shades can cover them perfectly." },
+        { "id": 5, "question": "Is it long-lasting throughout the day?", "answer": "Yes, when applied under your foundation and set with a powder, the color correction will remain flawless for up to 8 to 12 hours." }
       ],
       "createdAt": "2025-03-15T00:00:00.000Z"
     },
@@ -1309,6 +1540,13 @@
         { "id": 5, "userName": "PrettyInPink", "rating": 4, "comment": "I use this almost every day and it performs consistently well.", "date": "2025-06-28" },
         { "id": 6, "userName": "SophiaLiu", "rating": 5, "comment": "Fantastic product! It does everything it promises and more.", "date": "2025-07-12" }
       ],
+      "faqs": [
+        { "id": 1, "question": "Does it control oil?", "answer": "Yes, this loose translucent powder is formulated to absorb excess oil and sebum, providing a matte finish that lasts all day." },
+        { "id": 2, "question": "Is it suitable for daily use?", "answer": "Absolutely. It is lightweight, non-comedogenic, and won't clog pores, making it perfect to set your everyday makeup." },
+        { "id": 3, "question": "Does it leave a white cast?", "answer": "No, this translucent powder blends completely clear into the skin, making it suitable for all skin tones without leaving a white or flashback cast." },
+        { "id": 4, "question": "Is it lightweight?", "answer": "Yes, the micro-fine particles feel weightless on the skin and keep your makeup looking smooth and fresh without feeling heavy." },
+        { "id": 5, "question": "How long does it last?", "answer": "It keeps makeup set and controls shine for up to 8 to 10 hours depending on your skin type." }
+      ],
       "createdAt": "2025-03-22T00:00:00.000Z"
     },
     {
@@ -1347,6 +1585,13 @@
         { "id": 4, "userName": "MiaMakeup", "rating": 4, "comment": "Really impressed with the quality. Will definitely buy again!", "date": "2025-05-28" },
         { "id": 5, "userName": "BeautyLover22", "rating": 5, "comment": "I've tried many brands but this one stands out. Highly recommend!", "date": "2025-06-22" },
         { "id": 6, "userName": "StyleIcon", "rating": 4, "comment": "This has become a staple in my beauty routine. Love everything about it.", "date": "2025-07-10" }
+      ],
+      "faqs": [
+        { "id": 1, "question": "Does this bronzer look natural on the skin?", "answer": "Yes, this bronzer is formulated with finely milled pigments that blend seamlessly into the skin for a natural, sun-kissed look. It adds warmth without looking muddy or orange." },
+        { "id": 2, "question": "Is it suitable for contouring?", "answer": "Absolutely! This bronzer can be used for contouring to add definition and dimension to your face. Its blendable formula allows for precise sculpting of cheekbones, jawline, and temples." },
+        { "id": 3, "question": "Does it work on all skin tones?", "answer": "Yes, this bronzer is designed to complement a wide range of skin tones. Its versatile shade adds warmth and dimension to fair, medium, and deep complexions alike." },
+        { "id": 4, "question": "Is it buildable for a deeper bronze look?", "answer": "Yes, this bronzer is fully buildable. You can apply a light layer for a subtle warmth or build up the product for a more intense, sculpted bronze look without it becoming patchy." },
+        { "id": 5, "question": "Does it last throughout the day?", "answer": "This bronzer is formulated for long-lasting wear that maintains its warm, sculpted finish for up to 8 hours. It resists fading and stays blended throughout the day." }
       ],
       "createdAt": "2025-04-01T00:00:00.000Z"
     },
@@ -1387,6 +1632,13 @@
         { "id": 5, "userName": "GlowGirl", "rating": 4, "comment": "Great value for the price. I use it daily and it never disappoints.", "date": "2025-06-30" },
         { "id": 6, "userName": "TrendyMiss", "rating": 5, "comment": "The best in its category. I've recommended it to all my friends.", "date": "2025-07-12" }
       ],
+      "faqs": [
+        { "id": 1, "question": "Is this blush highly pigmented?", "answer": "Yes, this blush offers rich pigmentation that delivers vibrant color in just one swipe. A little goes a long way, and it can be built up gradually for your desired intensity." },
+        { "id": 2, "question": "Can beginners use this blush easily?", "answer": "Absolutely! This blush has a silky, blendable texture that is very forgiving and easy to work with. Even if you over-apply, it blends out beautifully for a natural-looking flush." },
+        { "id": 3, "question": "Is it suitable for all skin tones?", "answer": "Yes, this blush is designed to complement a wide range of skin tones. Its versatile shade provides a beautiful flush on fair to deep complexions when applied with a light hand." },
+        { "id": 4, "question": "Does it contain shimmer or is it matte?", "answer": "This blush features a satin finish with a subtle luminosity that gives a healthy, natural-looking glow. It is not overly shimmery but provides a beautiful lit-from-within effect." },
+        { "id": 5, "question": "Is this blush long-lasting?", "answer": "Yes, this blush is formulated for long-lasting wear that stays fresh and vibrant for up to 8 hours. It resists fading and maintains its beautiful color throughout the day." }
+      ],
       "createdAt": "2025-04-08T00:00:00.000Z"
     },
     {
@@ -1425,6 +1677,13 @@
         { "id": 4, "userName": "MakeupQueen", "rating": 5, "comment": "Best purchase I've made in a while. The texture and finish are perfect.", "date": "2025-05-28" },
         { "id": 5, "userName": "CosmeticFan", "rating": 5, "comment": "Wonderful product with great ingredients. My skin feels great after using it.", "date": "2025-06-22" },
         { "id": 6, "userName": "SkincareJunkie", "rating": 4, "comment": "This has become a staple in my beauty routine. Love everything about it.", "date": "2025-07-08" }
+      ],
+      "faqs": [
+        { "id": 1, "question": "Is this eyeliner waterproof?", "answer": "Yes, this eyeliner is waterproof and designed to resist smudging from water, sweat, and humidity. It stays precisely where you apply it for long-lasting, clean lines throughout the day." },
+        { "id": 2, "question": "Is it easy to apply for beginners?", "answer": "This eyeliner features a smooth, glide-on formula that makes application easy even for beginners. The precise tip allows for controlled, effortless lines with minimal practice." },
+        { "id": 3, "question": "Does it smudge or transfer during the day?", "answer": "No, this eyeliner is formulated with smudge-proof technology that keeps your lines sharp and intact throughout the day. It resists transfer from rubbing and natural eye movement." },
+        { "id": 4, "question": "Can I create a winged look with this eyeliner?", "answer": "Absolutely! The fine, precise tip of this eyeliner is perfect for creating winged or cat-eye looks. Its smooth formula allows for clean, defined lines and sharp wing tips." },
+        { "id": 5, "question": "How do I remove this waterproof eyeliner?", "answer": "Use an oil-based or waterproof makeup remover with a cotton pad. Gently press it against your closed eyelid for a few seconds to dissolve the formula, then wipe away without harsh rubbing." }
       ],
       "createdAt": "2025-04-15T00:00:00.000Z"
     },
@@ -1466,6 +1725,13 @@
         { "id": 6, "userName": "PrettyInPink", "rating": 5, "comment": "Five stars! The color is gorgeous and the formula feels lightweight.", "date": "2025-06-28" },
         { "id": 7, "userName": "GlamourGal", "rating": 5, "comment": "Fantastic product! It does everything it promises and more.", "date": "2025-07-15" }
       ],
+      "faqs": [
+        { "id": 1, "question": "Does this primer minimize the appearance of pores?", "answer": "Yes, this primer creates a smoothing effect that visually minimizes the appearance of pores. It fills in fine lines and imperfections to create a flawless, even canvas for makeup application." },
+        { "id": 2, "question": "Can it be used alone without foundation?", "answer": "Absolutely! This primer works beautifully on its own to smooth and even out the skin. It provides a natural, refined look and can be worn alone for a no-makeup, polished appearance." },
+        { "id": 3, "question": "Is it suitable for sensitive skin?", "answer": "Yes, this primer is dermatologist-tested and formulated without harsh chemicals or fragrances. It is gentle on sensitive skin and helps create a protective barrier between your skin and makeup." },
+        { "id": 4, "question": "How long does it help makeup last?", "answer": "This primer extends makeup wear by up to 8-10 hours. It creates a smooth, gripping base that helps foundation, concealer, and other products adhere better and last longer." },
+        { "id": 5, "question": "Does it feel greasy or heavy on the skin?", "answer": "No, this primer has a lightweight, silky texture that feels weightless on the skin. It absorbs quickly and leaves a smooth, non-greasy finish that is comfortable to wear all day." }
+      ],
       "createdAt": "2025-04-22T00:00:00.000Z"
     },
     {
@@ -1503,6 +1769,13 @@
         { "id": 3, "userName": "HarperG", "rating": 4, "comment": "Really impressed with the quality. Will definitely buy again!", "date": "2025-04-28" },
         { "id": 4, "userName": "NaturalBeauty", "rating": 4, "comment": "Lovely texture and finish. It applies smoothly and looks natural.", "date": "2025-05-25" },
         { "id": 5, "userName": "StyleIcon", "rating": 3, "comment": "Good product overall. Does what it says but nothing extraordinary.", "date": "2025-06-30" }
+      ],
+      "faqs": [
+        { "id": 1, "question": "Is this lip gloss sticky?", "answer": "No, this lip gloss features a non-sticky, lightweight formula that feels comfortable on the lips. It provides a glossy shine without the tacky or heavy feeling of traditional lip glosses." },
+        { "id": 2, "question": "Does it provide any color or is it clear?", "answer": "This lip gloss offers a beautiful tinted color that enhances your natural lip tone. It provides a sheer wash of buildable color along with a high-shine finish." },
+        { "id": 3, "question": "Can it be worn over lipstick?", "answer": "Yes, this lip gloss layers beautifully over any lipstick to add dimension and shine. It can also be worn alone for a glossy, natural look that enhances your lips." },
+        { "id": 4, "question": "Is it hydrating for the lips?", "answer": "Absolutely! This lip gloss is enriched with nourishing ingredients like Jojoba Oil and Vitamin E that moisturize and condition the lips while providing a gorgeous shine." },
+        { "id": 5, "question": "How long does the shine last?", "answer": "The high-shine finish of this gloss typically lasts 3-4 hours with normal wear. Reapplication is easy and comfortable, and the hydrating formula keeps lips conditioned between applications." }
       ],
       "createdAt": "2025-04-28T00:00:00.000Z"
     },
@@ -1542,6 +1815,13 @@
         { "id": 4, "userName": "BeautyLover22", "rating": 5, "comment": "Beautiful packaging and even better product inside. A must-have!", "date": "2025-05-30" },
         { "id": 5, "userName": "MiaMakeup", "rating": 4, "comment": "Lovely texture and finish. It applies smoothly and looks natural.", "date": "2025-06-28" }
       ],
+      "faqs": [
+        { "id": 1, "question": "Is this lipstick transfer-proof?", "answer": "This lipstick is formulated with long-wear technology that significantly reduces transfer. While it may leave minimal marks, it holds its color beautifully throughout eating, drinking, and daily activities." },
+        { "id": 2, "question": "Is the finish matte or glossy?", "answer": "This lipstick offers a luxurious satin finish that strikes a perfect balance between matte and glossy. It provides rich color with a slight sheen for a polished, elegant look." },
+        { "id": 3, "question": "How long does the color stay on the lips?", "answer": "This lipstick is formulated to last up to 8 hours with normal wear. It maintains its vibrant color throughout the day, though a light touch-up may be needed after heavy meals." },
+        { "id": 4, "question": "Is this lipstick moisturizing?", "answer": "Yes, this lipstick is infused with hydrating ingredients like Shea Butter and Vitamin E that keep your lips moisturized and comfortable all day without drying them out." },
+        { "id": 5, "question": "Is it suitable for everyday use?", "answer": "Absolutely! This lipstick features a lightweight, comfortable formula that is gentle on lips and perfect for daily wear. Its nourishing ingredients ensure your lips stay soft with regular use." }
+      ],
       "createdAt": "2025-05-05T00:00:00.000Z"
     },
     {
@@ -1580,6 +1860,13 @@
         { "id": 4, "userName": "GlowGirl", "rating": 4, "comment": "This has become a staple in my beauty routine. Love everything about it.", "date": "2025-05-25" },
         { "id": 5, "userName": "TrendyMiss", "rating": 4, "comment": "Wonderful product with great ingredients. My skin feels great after using it.", "date": "2025-06-30" }
       ],
+      "faqs": [
+        { "id": 1, "question": "Is this nail polish quick drying?", "answer": "Yes, this nail polish features a quick-dry formula that sets within 60 seconds of application. A full cure is achieved within 5 minutes, so you can get back to your routine quickly." },
+        { "id": 2, "question": "How many coats are recommended for best results?", "answer": "For optimal color and coverage, we recommend applying two thin coats. Allow each coat to dry for about a minute before applying the next to achieve the best finish." },
+        { "id": 3, "question": "Is it chip-resistant?", "answer": "Yes, this nail polish is formulated with a chip-resistant technology that helps the color stay intact for up to 7 days with proper application and a top coat." },
+        { "id": 4, "question": "How long does the polish last on nails?", "answer": "With proper application including a base coat and top coat, this polish can last up to 7-10 days without significant chipping or fading, even with daily activities." },
+        { "id": 5, "question": "How do I remove this nail polish?", "answer": "This nail polish can be easily removed with any standard acetone or non-acetone nail polish remover. Soak a cotton pad and press it onto the nail for a few seconds before wiping clean." }
+      ],
       "createdAt": "2025-05-12T00:00:00.000Z"
     },
     {
@@ -1617,6 +1904,13 @@
         { "id": 3, "userName": "CharlotteK", "rating": 5, "comment": "So glad I found this. It blends beautifully and stays on all day.", "date": "2025-04-25" },
         { "id": 4, "userName": "AbigailN", "rating": 4, "comment": "This has become a staple in my beauty routine. Love everything about it.", "date": "2025-05-28" },
         { "id": 5, "userName": "SkincareJunkie", "rating": 4, "comment": "Perfect for everyday use. The quality is comparable to high-end brands.", "date": "2025-06-30" }
+      ],
+      "faqs": [
+        { "id": 1, "question": "Is it chip-resistant?", "answer": "Yes, this nail polish is formulated with a chip-resistant technology that helps the color stay intact for up to 7 days with proper application and a top coat." },
+        { "id": 2, "question": "How long does the polish last on nails?", "answer": "With proper application including a base coat and top coat, this polish can last up to 7-10 days without significant chipping or fading, even with daily activities." },
+        { "id": 3, "question": "How do I remove this nail polish?", "answer": "This nail polish can be easily removed with any standard acetone or non-acetone nail polish remover. Soak a cotton pad and press it onto the nail for a few seconds before wiping clean." },
+        { "id": 4, "question": "Is it free from harmful chemicals?", "answer": "Yes, this nail polish is formulated without the most common harmful chemicals. It is free from formaldehyde, toluene, and DBP, making it a safer choice for regular use." },
+        { "id": 5, "question": "Can I use it without a base coat?", "answer": "While the polish applies well on bare nails, we recommend using a base coat for the longest wear time and to protect your natural nails from potential staining." }
       ],
       "createdAt": "2025-05-18T00:00:00.000Z"
     },
@@ -1657,6 +1951,13 @@
         { "id": 5, "userName": "PrettyInPink", "rating": 4, "comment": "Really impressed with the quality. Will definitely buy again!", "date": "2025-06-28" },
         { "id": 6, "userName": "NaturalBeauty", "rating": 5, "comment": "The best in its category. I've recommended it to all my friends.", "date": "2025-07-10" }
       ],
+      "faqs": [
+        { "id": 1, "question": "Is this product suitable for sensitive skin?", "answer": "Yes, this product is formulated with gentle, soothing ingredients that are safe for sensitive skin. It is free from harsh chemicals, fragrances, and common irritants." },
+        { "id": 2, "question": "Can it be used daily?", "answer": "Absolutely! This product is gentle enough for daily use as part of your morning and evening skincare routine. Regular use helps maintain clean, healthy-looking skin." },
+        { "id": 3, "question": "Does it effectively remove waterproof makeup?", "answer": "Yes, this product is designed to dissolve and remove all types of makeup, including waterproof formulas. It breaks down makeup gently without harsh rubbing or tugging on the skin." },
+        { "id": 4, "question": "Is it non-comedogenic?", "answer": "Yes, this product is non-comedogenic, meaning it will not clog pores. It cleanses thoroughly while respecting your skin's natural barrier, making it suitable for acne-prone skin." },
+        { "id": 5, "question": "Does it leave any residue after use?", "answer": "No, this product rinses clean without leaving any greasy or filmy residue. It leaves your skin feeling fresh, soft, and thoroughly cleansed after every use." }
+      ],
       "createdAt": "2025-05-25T00:00:00.000Z"
     },
     {
@@ -1694,6 +1995,13 @@
         { "id": 3, "userName": "HarperG", "rating": 5, "comment": "I've tried many brands but this one stands out. Highly recommend!", "date": "2025-04-28" },
         { "id": 4, "userName": "MakeupQueen", "rating": 4, "comment": "This has become a staple in my beauty routine. Love everything about it.", "date": "2025-05-25" },
         { "id": 5, "userName": "CosmeticFan", "rating": 5, "comment": "Fantastic product! It does everything it promises and more.", "date": "2025-06-30" }
+      ],
+      "faqs": [
+        { "id": 1, "question": "Is it reusable?", "answer": "Yes, this cleansing brush is fully reusable and built to be used daily as part of your regular skincare routine." },
+        { "id": 2, "question": "How should I clean it?", "answer": "Rinse the brush bristles thoroughly with warm water and a gentle soap or cleanser after each use. Gently shake off excess water and place it in a well-ventilated area to air dry." },
+        { "id": 3, "question": "Can beginners use it?", "answer": "Absolutely! It is extremely user-friendly. Just apply your favorite cleanser to your face or the brush, wet the bristles, and gently massage your skin in circular motions." },
+        { "id": 4, "question": "Is it latex-free?", "answer": "Yes, the bristles are made of ultra-soft nylon and the handle is made of ABS plastic, both of which are completely latex-free." },
+        { "id": 5, "question": "How often should it be replaced?", "answer": "For optimal hygiene and performance, we recommend replacing the cleansing brush or its brush head every 3 to 6 months depending on how frequently you use it." }
       ],
       "createdAt": "2025-06-01T00:00:00.000Z"
     },
@@ -1733,6 +2041,13 @@
         { "id": 4, "userName": "SophiaLiu", "rating": 5, "comment": "Amazing product! The packaging is also very pretty and sturdy.", "date": "2025-05-28" },
         { "id": 5, "userName": "BeautyLover22", "rating": 5, "comment": "Five stars! The color is gorgeous and the formula feels lightweight.", "date": "2025-06-25" }
       ],
+      "faqs": [
+        { "id": 1, "question": "Is it reusable?", "answer": "Yes, these powder puffs are fully reusable. They are made from durable velour fabric and cotton filling designed to withstand multiple washes." },
+        { "id": 2, "question": "How should I clean it?", "answer": "Hand wash the powder puffs gently using warm water and a mild soap or baby shampoo. Squeeze out excess water and let them air dry completely before using them again." },
+        { "id": 3, "question": "Can beginners use it?", "answer": "Absolutely! Powder puffs are excellent for beginners because they distribute loose or pressed powder evenly, helping to set makeup and control shine with ease." },
+        { "id": 4, "question": "Is it latex-free?", "answer": "Yes, these powder puffs are made of soft velour fabric and cotton filling, making them 100% latex-free." },
+        { "id": 5, "question": "How often should it be replaced?", "answer": "With regular use and weekly washing, we recommend replacing your powder puffs every 2 to 3 months to maintain proper hygiene and performance." }
+      ],
       "createdAt": "2025-06-08T00:00:00.000Z"
     },
     {
@@ -1771,6 +2086,13 @@
         { "id": 4, "userName": "MiaMakeup", "rating": 5, "comment": "I've tried many brands but this one stands out. Highly recommend!", "date": "2025-05-28" },
         { "id": 5, "userName": "GlowGirl", "rating": 5, "comment": "The best in its category. I've recommended it to all my friends.", "date": "2025-06-22" },
         { "id": 6, "userName": "TrendyMiss", "rating": 4, "comment": "This has become a staple in my beauty routine. Love everything about it.", "date": "2025-07-08" }
+      ],
+      "faqs": [
+        { "id": 1, "question": "Is it reusable?", "answer": "Yes, this eyelash curler is a durable metal beauty tool designed for long-term daily use. Simply replace the silicone pad when it wears down." },
+        { "id": 2, "question": "How should I clean it?", "answer": "Wipe the metal frame and silicone pad with a cotton pad soaked in rubbing alcohol or makeup remover after use to remove any mascara or oil residue." },
+        { "id": 3, "question": "Can beginners use it?", "answer": "Absolutely! It features an ergonomic grip and a smooth hinge mechanism, making it simple for beginners to curl their lashes safely before applying mascara." },
+        { "id": 4, "question": "Is it latex-free?", "answer": "Yes, the curler is made of high-quality stainless steel and the curling pad is made of premium silicone which is 100% latex-free." },
+        { "id": 5, "question": "How often should it be replaced?", "answer": "The stainless steel frame can last for years. However, we recommend replacing the silicone pad every 3 to 6 months to ensure a clean, safe curl." }
       ],
       "createdAt": "2025-06-15T00:00:00.000Z"
     },
@@ -1812,6 +2134,13 @@
         { "id": 6, "userName": "PrettyInPink", "rating": 5, "comment": "Beautiful packaging and even better product inside. A must-have!", "date": "2025-06-28" },
         { "id": 7, "userName": "StyleIcon", "rating": 5, "comment": "Fantastic product! It does everything it promises and more.", "date": "2025-07-15" }
       ],
+      "faqs": [
+        { "id": 1, "question": "Is it reusable?", "answer": "Yes, these false eyelashes are reusable. With proper care and gentle removal of glue residue after each wear, they can be worn up to 10-15 times." },
+        { "id": 2, "question": "How should I clean it?", "answer": "Use a cotton swab dipped in oil-free makeup remover or rubbing alcohol to gently clean the lash band and remove remaining glue. Avoid soaking the lashes in water." },
+        { "id": 3, "question": "Can beginners use it?", "answer": "Yes! While applying false eyelashes takes a bit of practice, beginners can easily use them by measuring and trimming the lash band to fit their eye shape before application." },
+        { "id": 4, "question": "Is it latex-free?", "answer": "The lash band itself is latex-free. Please check your eyelash adhesive separately to ensure you choose a latex-free glue if you have sensitivities." },
+        { "id": 5, "question": "How often should it be replaced?", "answer": "They should be replaced once the lash band loses its shape, the synthetic fibers look worn or bent, or if they can no longer be cleaned of adhesive buildup." }
+      ],
       "createdAt": "2025-06-22T00:00:00.000Z"
     },
     {
@@ -1849,6 +2178,13 @@
         { "id": 3, "userName": "EmmaB", "rating": 4, "comment": "Perfect for everyday use. The quality is comparable to high-end brands.", "date": "2025-04-28" },
         { "id": 4, "userName": "GlamourGal", "rating": 4, "comment": "I use this almost every day and it performs consistently well.", "date": "2025-05-22" },
         { "id": 5, "userName": "NaturalBeauty", "rating": 3, "comment": "Good product overall. Does what it says but nothing extraordinary.", "date": "2025-06-28" }
+      ],
+      "faqs": [
+        { "id": 1, "question": "Is it portable and travel-friendly?", "answer": "This cosmetic organizer box is designed primarily for vanity or countertop storage. While it is sturdy, its structured dimensions make it more suitable for home use than travel." },
+        { "id": 2, "question": "Is it easy to clean and maintain?", "answer": "Very easy! The acrylic plastic material can be wiped down quickly with a damp cloth or washed with mild soap and water to remove any makeup spills or dust." },
+        { "id": 3, "question": "What material is it made from?", "answer": "It is made of high-grade, durable, and crystal-clear acrylic plastic, allowing you to easily view all your beauty products at a glance." },
+        { "id": 4, "question": "Can it hold a full makeup collection?", "answer": "It has spacious compartments, drawers, and slots that can hold a moderate to large collection of daily makeup items, brushes, and skincare bottles." },
+        { "id": 5, "question": "Is it suitable as a gift?", "answer": "Absolutely! With its sleek, clear design and excellent practicality, it makes a perfect gift for any beauty enthusiast or organization lover." }
       ],
       "createdAt": "2025-06-28T00:00:00.000Z"
     },
@@ -1888,6 +2224,13 @@
         { "id": 4, "userName": "SkincareJunkie", "rating": 5, "comment": "Wonderful product with great ingredients. My skin feels great after using it.", "date": "2025-05-28" },
         { "id": 5, "userName": "MakeupQueen", "rating": 4, "comment": "I use this almost every day and it performs consistently well.", "date": "2025-06-30" }
       ],
+      "faqs": [
+        { "id": 1, "question": "Is it portable and travel-friendly?", "answer": "Yes! This makeup bag is compact, lightweight, and features a sturdy zipper, making it exceptionally portable and convenient to pack in your suitcase." },
+        { "id": 2, "question": "Is it easy to clean and maintain?", "answer": "Yes, it has a wipe-clean waterproof lining. You can easily wipe off any makeup residue or spills inside the bag using a damp cloth or baby wipe." },
+        { "id": 3, "question": "What material is it made from?", "answer": "The exterior is made of premium, durable polyester fabric, and the interior is lined with a waterproof nylon lining to protect against leaks." },
+        { "id": 4, "question": "Can it hold a full makeup collection?", "answer": "It is designed to carry your travel essentials—such as a few brushes, palettes, lipstick, mascara, and travel-sized skincare—rather than a full home collection." },
+        { "id": 5, "question": "Is it suitable as a gift?", "answer": "Yes, its practical design, stylish exterior, and travel utility make it an excellent and thoughtful gift for friends and family who travel often." }
+      ],
       "createdAt": "2025-07-05T00:00:00.000Z"
     },
     {
@@ -1925,6 +2268,13 @@
         { "id": 3, "userName": "OliviaJ", "rating": 5, "comment": "Best purchase I've made in a while. The texture and finish are perfect.", "date": "2025-04-20" },
         { "id": 4, "userName": "BeautyLover22", "rating": 4, "comment": "Perfect for everyday use. The quality is comparable to high-end brands.", "date": "2025-05-25" },
         { "id": 5, "userName": "TrendyMiss", "rating": 4, "comment": "This has become a staple in my beauty routine. Love everything about it.", "date": "2025-06-30" }
+      ],
+      "faqs": [
+        { "id": 1, "question": "Is it reusable?", "answer": "Yes, these mini beauty sponges are fully reusable. With proper cleaning and care, they will maintain their performance for months of daily application." },
+        { "id": 2, "question": "How should I clean it?", "answer": "Wash the sponges after every use with warm water and a solid or liquid blender cleanser. Gently squeeze out excess moisture and allow them to air dry completely." },
+        { "id": 3, "question": "Can beginners use it?", "answer": "Absolutely! The mini size is perfect for beginners to blend concealer under the eyes or around the nose with precision and ease." },
+        { "id": 4, "question": "Is it latex-free?", "answer": "Yes, these blending sponges are made from premium non-latex foam and are hypoallergenic and safe for sensitive skin types." },
+        { "id": 5, "question": "How often should it be replaced?", "answer": "For optimal hygiene and makeup application quality, we recommend replacing these sponges every 3 months with regular daily use." }
       ],
       "createdAt": "2025-07-12T00:00:00.000Z"
     }
